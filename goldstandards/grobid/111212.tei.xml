@@ -1,0 +1,233 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Primarliteratur</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">Primarliteratur:</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<author>
+			<persName><forename type="first">Peter</forename><forename type="middle">(</forename><surname>Ganz</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hrsg</surname></persName>
+		</author>
+		<title level="m">Gottfried von Straßburg: Tristan. Wiesbaden: Brockhaus</title>
+				<imprint>
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ganz, Peter (Hrsg.): Gottfried von Straßburg: Tristan. Wiesbaden: Brockhaus, 1978.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">F</forename><surname>Benecke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Müller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Zarncke</surname></persName>
+		</author>
+		<title level="m">Mittelhochdeutsches Wörterbuch</title>
+				<meeting><address><addrLine>Stuttgart</addrLine></address></meeting>
+		<imprint>
+			<publisher>Hirzel Verlag</publisher>
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Benecke, G. F., W. Müller et F. Zarncke: Mittelhochdeutsches Wörterbuch. Stuttgart: Hirzel Verlag, 1990.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Helmut: Geschichte der deutschen Literatur II. Die höfische Literatur</title>
+		<author>
+			<persName><forename type="first">De</forename><surname>Boor</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1991">1991</date>
+			<publisher>Beck´sche Verlagsbuchhandlung</publisher>
+			<pubPlace>München</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">De Boor, Helmut: Geschichte der deutschen Literatur II. Die höfische Literatur. München: Beck´sche Verlagsbuchhandlung, 1991.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<author>
+			<persName><forename type="first">Günther</forename><surname>Drosdowsky</surname></persName>
+		</author>
+		<title level="m">Duden. Das Herkunftswörterbuch der deutschen Sprache. Bd. 7. Mannheim: Dudenverlag</title>
+				<imprint>
+			<date type="published" when="1963">1963</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Drosdowsky, Günther: Duden. Das Herkunftswörterbuch der deutschen Sprache. Bd. 7. Mannheim: Dudenverlag, 1963..</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<author>
+			<persName><forename type="first">Jacob</forename><surname>Grimm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wilhelm</forename></persName>
+		</author>
+		<title level="m">Deutsches Wörterbuch. Bd. 3. München: Deutscher Taschenbuchverlag</title>
+				<imprint>
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Grimm, Jacob und Wilhelm: Deutsches Wörterbuch. Bd. 3. München: Deutscher Taschenbuchverlag, 1984.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<author>
+			<persName><forename type="first">Christoph</forename><surname>Huber</surname></persName>
+		</author>
+		<title level="m">Gottfried von Straßburg: Tristan. Berlin: Erich Schmidt</title>
+				<imprint>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Huber, Christoph: Gottfried von Straßburg: Tristan. Berlin: Erich Schmidt, 2001.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Etymologische Wörterbuch der deutschen Sprache. 24. Aufl</title>
+		<author>
+			<persName><forename type="first">Friedrich</forename><surname>Kluge</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<publisher>Walter de Gruyter Verlag</publisher>
+			<pubPlace>Berlin</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kluge, Friedrich: Etymologische Wörterbuch der deutschen Sprache. 24. Aufl. Berlin: Walter de Gruyter Verlag, 2002.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Ah, to be young and rich! A new look at Gottfried v. Straßburgs edele herzen in light of Walther´s 42.31</title>
+		<author>
+			<persName><forename type="first">Patrick</forename><surname>Mccoeghy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Amsterdamer Beiträge zur Älteren Germanistik</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="107" to="137" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">McCoeghy, Patrick: Ah, to be young and rich! A new look at Gottfried v. Straßburgs edele herzen in light of Walther´s 42.31. Amsterdamer Beiträge zur Älteren Germanistik 22: S 107-137, 1984.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Der Begriff edelez herze im Tristan Gottfried v. Straßburgs von Straßburg</title>
+		<author>
+			<persName><forename type="first">Olive</forename><surname>Sayce</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Deutsche Vierteljahresschrift für Literaturwissenschaft und Geistesgeschichte</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="389" to="413" />
+			<date type="published" when="1959">1959</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sayce, Olive: Der Begriff edelez herze im Tristan Gottfried v. Straßburgs von Straßburg. In: Deutsche Vierteljahresschrift für Literaturwissenschaft und Geistesgeschichte 33: S 389-413, 1959.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<author>
+			<persName><forename type="first">Albrecht</forename><surname>Schöne</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Zu Gottfried v. Straßburgs Tristan - Prolog</title>
+				<imprint>
+			<date type="published" when="1955">1955</date>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="447" to="474" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Schöne, Albrecht: Zu Gottfried v. Straßburgs Tristan - Prolog. In: Deutsche Vierteljahresschrift für Literaturwissenschaften und Geistesgeschichte 29: S 447-474, 1955.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<author>
+			<persName><forename type="first">Klaus</forename><surname>Speckenbach</surname></persName>
+		</author>
+		<title level="m">Studien zum Begriff edelez herze im Tristan Gottfried v. Straßburgs von Straßburg. München: Eidos Verlag: München</title>
+				<imprint>
+			<date type="published" when="1965">1965</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Speckenbach, Klaus: Studien zum Begriff edelez herze im Tristan Gottfried v. Straßburgs von Straßburg. München: Eidos Verlag: München, 1965.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Zum Begriff edelez herze bei Gottfried v. Straßburg von Straßburg</title>
+		<author>
+			<persName><forename type="first">Wolfgang</forename><surname>Spiewok</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Weimarer Beiträge</title>
+				<imprint>
+			<date type="published" when="1963">1963</date>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="27" to="41" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Spiewok, Wolfgang: Zum Begriff edelez herze bei Gottfried v. Straßburg von Straßburg. In: Weimarer Beiträge, Jg. IX. Bd. 1: S 27-41, 1963.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Alois: Gottfried von Straßburg und die Mythe von Tristan und Isolde</title>
+		<author>
+			<persName><surname>Wolf</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1989">1989</date>
+			<publisher>Wissenschaftliche Buchgesellschaft</publisher>
+			<pubPlace>Darmstadt</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wolf, Alois: Gottfried von Straßburg und die Mythe von Tristan und Isolde. Darmstadt: Wissenschaftliche Buchgesellschaft, 1989.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

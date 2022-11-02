@@ -1,0 +1,544 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">The Unequal Distribution of Interactional Space. Dominance and Control in Courtroom Interaction</title>
+		<author>
+			<persName><surname>Adelswärd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Karin</forename><forename type="middle">/</forename><surname>Viveca / Aronsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Linda</forename><forename type="middle">/</forename><surname>Jönsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Per</forename><surname>Linell</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="313" to="346" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Adelswärd, Viveca / Aronsson, Karin / Jönsson, Linda / Linell, Per (1987): The Unequal Distribution of Interactional Space. Dominance and Control in Courtroom Interaction, in: Text 7, 313 - 346.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<author>
+			<persName><forename type="first">Antoine</forename><forename type="middle">/</forename><surname>Auchlin</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Moeschler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">/</forename><surname>Jaques</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Roulet</surname></persName>
+		</author>
+		<title level="m">Marianne (31991): L’articulation du discours en français contemporain</title>
+				<meeting><address><addrLine>Bern</addrLine></address></meeting>
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">Auchlin, Antoine / Moeschler, Jaques / Roulet, Eddy / Rubattel, Christian / Schelling, Marianne (31991): L’articulation du discours en français contemporain, Bern.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Challenge and Control in Lawyer-Client Interaction. A Case Study in an Israeli Legal Aid Office</title>
+		<author>
+			<persName><forename type="first">Bryna</forename><forename type="middle">/</forename><surname>Bogoch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Brenda</forename><surname>Danet</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1984">1984</date>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="249" to="275" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bogoch, Bryna / Danet, Brenda (1984): Challenge and Control in Lawyer-Client Interaction. A Case Study in an Israeli Legal Aid Office, in: Text 4, 13, 249 - 275. !!!</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Grilling Politicians. Politicians’ Answers to Questions in television interviews and legal examinations</title>
+		<author>
+			<persName><surname>Bonaiuto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">/</forename><surname>Marino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Augusto</forename><surname>Gnisci</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Language and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="385" to="413" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bonaiuto, Marino / Gnisci, Augusto (2003): Grilling Politicians. Politicians’ Answers to Questions in television interviews and legal examinations, in: Journal of Language and Social Psychology 22, 4, 385 - 413</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">The Discourse of Denial. Cross Examining Child Victim Witnesses</title>
+		<author>
+			<persName><forename type="first">Mary</forename><surname>Brennan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Pragmatics</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="71" to="91" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Brennan, Mary (1995): The Discourse of Denial. Cross Examining Child Victim Witnesses, in: Journal of Pragmatics 23, 71 - 91.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">How Not to Answer Questions in Political Interviews</title>
+		<author>
+			<persName><forename type="first">Peter</forename><forename type="middle">/</forename><surname>Bull</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kate</forename><surname>Mayer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Political Psychology</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="651" to="666" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bull, Peter / Mayer, Kate (1993): How Not to Answer Questions in Political Interviews, in: Political Psychology 14, 651 - 666.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">On Identifying Questions, Replies and Non-Replies in Political Interview</title>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Bull</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Language and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="115" to="131" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bull, Peter (1994): On Identifying Questions, Replies and Non-Replies in Political Interview, in: Journal of Language and Social Psychology 13, 115 - 131.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Contested Evidence in Courtroom Cross-Examination. The Case of a Trial of Rape</title>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Drew</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Talk at Work. Interaction in Institutional Settings</title>
+				<editor>
+			<persName><forename type="first">Paul</forename><forename type="middle">/</forename><surname>Drew</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">John</forename><surname>Heritage</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1992">1992</date>
+			<biblScope unit="page" from="470" to="520" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Drew, Paul (1992): Contested Evidence in Courtroom Cross-Examination. The Case of a Trial of Rape, in: Drew, Paul / Heritage, John (Hsgg.), Talk at Work. Interaction in Institutional Settings, Cambridge, 470 - 520.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Interactional Dominance in Dyadic Communication. A Presentation of Initiative-Response Analysis</title>
+		<author>
+			<persName><forename type="first">Lennart</forename><forename type="middle">/</forename><surname>Gustavsson</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Juvonen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">/</forename><surname>Päivi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Per</forename><surname>Linell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Linguistics</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="415" to="442" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gustavsson, Lennart / Juvonen, Päivi / Linell, Per (1988): Interactional Dominance in Dyadic Communication. A Presentation of Initiative-Response Analysis, in: Linguistics 26, 1, 415 - 442.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">The Organization of Questions and Answers in the Thematic Phases of Hostile Examination. Turn-by-Turn Manipulation of Meaning</title>
+		<author>
+			<persName><forename type="first">Augusto</forename><forename type="middle">/</forename><surname>Gnisci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Clotilde</forename><surname>Pontecorvo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Pragmatics</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="965" to="995" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note>bes. S. 977 - 81</note>
+	<note type="raw_reference">Gnisci, Augusto / Pontecorvo, Clotilde (2004): The Organization of Questions and Answers in the Thematic Phases of Hostile Examination. Turn-by-Turn Manipulation of Meaning, in: Journal of Pragmatics 36, 1, 965 - 995 [bes. S. 977 - 81].</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Strategie di argomentazione nel processo penale. Il turno come unità d’analisi</title>
+		<author>
+			<persName><forename type="first">Augusto</forename><surname>Gnisci</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rassegna di Psicologia</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="31" to="64" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gnisci, Augusto (1997): Strategie di argomentazione nel processo penale. Il turno come unità d’analisi, in: Rassegna di Psicologia 14, 1, 31 - 64.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">Aspects of the Properties of Formulations in Natural Conversations. Some Instances Analysed, in: Semitotica</title>
+		<author>
+			<persName><forename type="first">John</forename><forename type="middle">/</forename><surname>Heritage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ron</forename><surname>Watson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1980">1980</date>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="245" to="262" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Heritage, John / Watson, Ron (1980): Aspects of the Properties of Formulations in Natural Conversations. Some Instances Analysed, in: Semitotica 30, 3 - 4, 245 - 262.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<author>
+			<persName><forename type="first">Götz</forename><surname>Hindelang</surname></persName>
+		</author>
+		<title level="m">Dialoganalyse und Psychotherapie</title>
+				<editor>
+			<persName><forename type="first">Gerd</forename><forename type="middle">/</forename><surname>Fritz</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Franz</forename><surname>Hundschnurscher</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Tübingen</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<biblScope unit="page" from="429" to="449" />
+		</imprint>
+	</monogr>
+	<note>Handbuch der Dialoganalyse</note>
+	<note type="raw_reference">Hindelang, Götz (1994): Dialoganalyse und Psychotherapie, in: Fritz, Gerd / Hundschnurscher, Franz (Hsgg.), Handbuch der Dialoganalyse, Tübingen, 429 - 449.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Stephen</forename><forename type="middle">C</forename><surname>Levinson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1983">1983</date>
+			<publisher>Pragmatics</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Levinson, Stephen C. (1983): Pragmatics, Cambridge.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Stephen</forename><forename type="middle">C</forename><surname>Levinson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1990">1990</date>
+			<publisher>Pragmatik</publisher>
+			<pubPlace>Tübingen</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Levinson, Stephen C. (1990): Pragmatik, Tübingen.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">From Adjunction to Mediation. Third Party Discourse in Conflict Resolution</title>
+		<author>
+			<persName><forename type="first">Yon</forename><surname>Maley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Pragmatics</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="93" to="110" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Maley, Yon (1995): From Adjunction to Mediation. Third Party Discourse in Conflict Resolution, Journal of Pragmatics 23, 93 - 110</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<author>
+			<persName><forename type="first">Jacques</forename><surname>Moeschler</surname></persName>
+		</author>
+		<title level="m">Das Genfer Modell der Gesprächsanalyse</title>
+				<editor>
+			<persName><forename type="first">Gerd</forename><forename type="middle">/</forename><surname>Fritz</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Hundsnurscher</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Handbuch</forename><surname>Franz</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Der Dialoganalyse</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Tübingen</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<biblScope unit="page" from="69" to="94" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Moeschler, Jacques (1994): Das Genfer Modell der Gesprächsanalyse, in: Fritz, Gerd / Hundsnurscher, Franz, Handbuch der Dialoganalyse, Tübingen, 69 - 94.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<author>
+			<persName><forename type="first">Robyn</forename><surname>Penman</surname></persName>
+		</author>
+		<title level="m">Discourse in Courts. Cooperation, Coercion and Coherence</title>
+				<imprint>
+			<date type="published" when="1987">1987</date>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="201" to="218" />
+		</imprint>
+	</monogr>
+	<note>Discourse Processes</note>
+	<note type="raw_reference">Penman, Robyn (1987): Discourse in Courts. Cooperation, Coercion and Coherence, in: Discourse Processes 10, 201 - 218.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<author>
+			<persName><forename type="first">Christian</forename><surname>Rubattel</surname></persName>
+		</author>
+		<title level="m">Modèles du discours. Recherches actuelles en Suisse romande</title>
+				<meeting><address><addrLine>Bern</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rubattel, Christian (Hsg.) (1989): Modèles du discours. Recherches actuelles en Suisse romande, Bern.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<author>
+			<persName><forename type="first">Johannes</forename><surname>Schwittala</surname></persName>
+		</author>
+		<title level="m">Dialogsteuerung in Interviews. Ansätze zu einer Theorie der Dialogsteuerung mit empirischen Untersuchungen</title>
+				<meeting><address><addrLine>München</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Schwittala, Johannes (1979): Dialogsteuerung in Interviews. Ansätze zu einer Theorie der Dialogsteuerung mit empirischen Untersuchungen, München.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Language Crimes. The Use and Abuse of Language Evidence in the Courtroom</title>
+		<author>
+			<persName><forename type="first">Roger</forename><forename type="middle">W</forename><surname>Shuy</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Shuy, Roger W. (1993): Language Crimes. The Use and Abuse of Language Evidence in the Courtroom, Oxford.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">The Language of Confession, Interrogation and Deception</title>
+		<author>
+			<persName><forename type="first">Roger</forename><forename type="middle">W</forename><surname>Shuy</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<pubPlace>Thousand Oaks</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Shuy, Roger W. (1998): The Language of Confession, Interrogation and Deception, Thousand Oaks.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">The Language of Power. Towards a Dynamic Pragmatics</title>
+		<author>
+			<persName><forename type="first">Jenny</forename><forename type="middle">A</forename><surname>Thomas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Pragmatics</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="765" to="783" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Thomas, Jenny A. (1985) The Language of Power. Towards a Dynamic Pragmatics, in: Journal of Pragmatics 9, 765 - 783.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Analyzing the Demands That Courtroom Interaction Makes Upon Speakers of Ordinary English. Toward the Development of a Coherent Descriptive Framework</title>
+		<author>
+			<persName><forename type="first">Guadalupe</forename><surname>Valdés</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Discourse Processes</title>
+				<imprint>
+			<date type="published" when="1986">1986</date>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="269" to="303" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Valdés, Guadalupe (1986): Analyzing the Demands That Courtroom Interaction Makes Upon Speakers of Ordinary English. Toward the Development of a Coherent Descriptive Framework, in: Discourse Processes 9, 269 - 303.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<author>
+			<persName><forename type="first">Sibylle</forename><surname>Wahmhoff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Die Funktion der Paraphrase in gesprächspsychotherapeutischen Beratungen</title>
+				<imprint>
+			<date type="published" when="1981">1981</date>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="97" to="118" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wahmhoff, Sibylle (1981): Die Funktion der Paraphrase in gesprächspsychotherapeutischen Beratungen, in: Deutsche Sprache 9, 97 - 118.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Reformulierung in der Gesprächspsychotherapie</title>
+		<author>
+			<persName><forename type="first">Rüdiger</forename><surname>Weingarten</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Medizinische und therapeutische Kommunikation. Diskursanalytische Untersuchungen</title>
+				<editor>
+			<persName><forename type="first">Konrad</forename><forename type="middle">/</forename><surname>Ehlich</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Koerfer</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">/</forename><surname>Armin</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Angelika</forename><forename type="middle">/</forename><surname>Redder</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Rüdiger</forename><surname>Weingarten</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Opladen</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1990">1990</date>
+			<biblScope unit="page" from="228" to="240" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Weingarten, Rüdiger (1990): Reformulierung in der Gesprächspsychotherapie, in: Ehlich, Konrad / Koerfer, Armin / Redder, Angelika / Weingarten, Rüdiger (Hsgg.), Medizinische und therapeutische Kommunikation. Diskursanalytische Untersuchungen, Opladen, 228 - 240.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<author>
+			<persName><forename type="first">Angelika</forename><surname>Wenzel</surname></persName>
+		</author>
+		<title level="m">Funktionen kommunikativer Paraphrasen. Am Beispiel von Gesprächen zwischen Bürgern und Beamten am Sozialamt</title>
+				<editor>
+			<persName><forename type="first">Peter</forename><forename type="middle">/</forename><surname>Schröder</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Hugo</forename><surname>Steger</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Düsseldorf</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1981">1981</date>
+			<biblScope unit="page" from="385" to="401" />
+		</imprint>
+	</monogr>
+	<note>Dialogforschung. Jahrbuch 1980 des Instituts für deutsche Sprache</note>
+	<note type="raw_reference">Wenzel, Angelika (1981): Funktionen kommunikativer Paraphrasen. Am Beispiel von Gesprächen zwischen Bürgern und Beamten am Sozialamt, in: Schröder, Peter / Steger, Hugo (Hsgg.), Dialogforschung. Jahrbuch 1980 des Instituts für deutsche Sprache, Düsseldorf, 385 - 401.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

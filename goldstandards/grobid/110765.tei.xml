@@ -1,0 +1,315 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Richard</forename><surname>Aczel</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>Lexikon Literatur</note>
+	<note type="raw_reference">Aczel, Richard [Lexikon Literatur]:</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Intertextualität Und Intertextualitätstheorien</surname></persName>
+		</author>
+		<editor>Metzler Lexikon Literatur- und Kulturtheorie, S.287</editor>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<pubPlace>Stuttgart</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Intertextualität und Intertextualitätstheorien, in: Metzler Lexikon Literatur- und Kulturtheorie, S.287, Stuttgart 2001.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Vittoria</forename><surname>Borsò</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>Überlegungen zum spanischen Sonett</note>
+	<note type="raw_reference">Borsò, Vittoria [Überlegungen zum spanischen Sonett]:</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Zwischen Carpe diem und Vanitas - Überlegungen zum spanischen Sonett in der Renaissance und dem Siglo de</title>
+	</analytic>
+	<monogr>
+		<title level="m">Erscheinungsformen des Sonetts</title>
+				<editor>
+			<persName><forename type="first">Theo</forename><surname>Stemmler/ Stefan</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Horlacher</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Tübingen</addrLine></address></meeting>
+		<imprint>
+			<publisher>Gunther Narr Verlag</publisher>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Zwischen Carpe diem und Vanitas - Überlegungen zum spanischen Sonett in der Renaissance und dem Siglo de Oro in: Theo Stemmler/ Stefan Horlacher (Hg.), Erscheinungsformen des Sonetts, Tübingen: Gunther Narr Verlag 1999.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Astrid</forename><surname>Böger</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>Frauenkultur Studien</note>
+	<note type="raw_reference">Böger, Astrid [Frauenkultur Studien]</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Frauenkultur Studien - Weiblichkeitsdiskurse in Literatur, Philosophie und Sprache</title>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<pubPlace>Tübingen/ Basel</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Frauenkultur Studien - Weiblichkeitsdiskurse in Literatur, Philosophie und Sprache; Tübingen/ Basel 2000.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">María</forename><surname>Gallo</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Rosso</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>Sonette</note>
+	<note type="raw_reference">Gallo, María Rosso [Sonette]:</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Análisis filológico y texto crítico; Anejos del boletín de la Real Academia española</title>
+		<author>
+			<persName><forename type="first">La</forename><surname>Poesía De Garcilaso De La</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Vega</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1990">1990</date>
+			<publisher>Madrid</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">La Poesía de Garcilaso de la Vega. Análisis filológico y texto crítico; Anejos del boletín de la Real Academia española; Madrid, 1990.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Garcilaso</forename><surname>De</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">La</forename><surname>Vega</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">Garcilaso de la Vega [Sonette]:</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Poesía castellana completa</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<date type="published" when="1977">193 - 194 Madrid 1977</date>
+		</imprint>
+	</monogr>
+	<note>Cátedra</note>
+	<note type="raw_reference">Poesía castellana completa, Cátedra, 42, S. 193 - 194 Madrid 1977.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<author>
+			<persName><forename type="first">Helmut</forename><surname>Glück</surname></persName>
+		</author>
+		<title level="m">Lexikon Sprache</title>
+				<imprint/>
+	</monogr>
+	<note type="raw_reference">Glück, Helmut (Hrsg.) [Lexikon Sprache]:</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Metzler Lexikon Sprache; Verlag</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Metzler</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<pubPlace>Stuttgart</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Metzler Lexikon Sprache; Verlag J. B. Metzler, Stuttgart 2000.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Rudolf</forename><surname>Grossmann</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">Grossmann, Rudolf (Hrsg.) [Geschichte]:</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Spanische Geschichte aus acht Jahrhunderten. zweisprachige Ausgabe</title>
+		<imprint>
+			<date type="published" when="1960">1960</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Spanische Geschichte aus acht Jahrhunderten. zweisprachige Ausgabe, Bremen, 1960.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Susanne</forename><surname>Holthuis</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>Intertextualität</note>
+	<note type="raw_reference">Holthuis, Susanne [Intertextualität]:</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Intertextualität - Aspekte einer rezeptionsorientierten Konzeption</title>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+			<biblScope unit="volume">48</biblScope>
+			<pubPlace>Tübingen</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Intertextualität - Aspekte einer rezeptionsorientierten Konzeption, S. 48, Tübingen, 1993.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Christopher</forename><surname>Laferl</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>Lexikon Literatur</note>
+	<note type="raw_reference">Laferl, Christopher [Lexikon Literatur]:</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Neu-Spanien</surname></persName>
+		</author>
+		<editor>Rössner, Michael [Hrsg.], Lateinamerikanische Literaturgeschichte, Verlag J.B. Metzler</editor>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<pubPlace>Stuttgart</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Neu-Spanien; in: Rössner, Michael [Hrsg.], Lateinamerikanische Literaturgeschichte, Verlag J.B. Metzler, Stuttgart, 1995.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Birthe</forename><surname>Koch</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>Bibliographisches Lexikon</note>
+	<note type="raw_reference">Koch, Birthe [Bibliographisches Lexikon]:</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title/>
+		<author>
+			<persName><surname>Biographisch - Bibliographisches Kirchenlexikon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bd. II</title>
+		<imprint>
+			<biblScope unit="page" from="283" to="287" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Biographisch - Bibliographisches Kirchenlexikon, Bd. II, Spalten 283-287, Herzberg, 1994.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Martínez Fernandez José</forename><surname>Enrique</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>Intextualität</note>
+	<note type="raw_reference">Martínez Fernandez José Enrique [Intextualität]:</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Madrid</forename><surname>La Intertextualidad Literaria</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">La intertextualidad literaria, Madrid, 2001</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

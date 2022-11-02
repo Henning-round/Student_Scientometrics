@@ -1,0 +1,234 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Eduard</forename><surname>Keyserling</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Von</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Wilhelm</publisher>
+			<pubPlace>München</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Beate und Mareile. Eine Schloßgeschichte</orgName>
+		</respStmt>
+	</monogr>
+	<note type="raw_reference">Keyserling, Eduard von: Beate und Mareile. Eine Schloßgeschichte. München: Wilhelm</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Goldmann</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Goldmann 1998.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<author>
+			<persName><forename type="first">Richard</forename><surname>Brinkmann</surname></persName>
+		</author>
+		<title level="m">Wirklichkeit und Illusion. Studien über Gehalt und Grenzen des</title>
+				<imprint/>
+	</monogr>
+	<note type="raw_reference">Brinkmann, Richard: Wirklichkeit und Illusion. Studien über Gehalt und Grenzen des</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Begriffs Realismus für die erzählende Dichtung des Neunzehnten Jahrhunderts. 2. Aufl</title>
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">Begriffs Realismus für die erzählende Dichtung des Neunzehnten Jahrhunderts. 2. Aufl.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Tübingen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1966">1966</date>
+			<publisher>Max Niemeyer</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Tübingen: Max Niemeyer 1966.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Beate: Illegitimität und Ehe</title>
+		<author>
+			<persName><surname>Harns-Ziegler</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>Illegitimität als Reflex des Ehediskurses in</note>
+	<note type="raw_reference">Harns-Ziegler, Beate: Illegitimität und Ehe. Illegitimität als Reflex des Ehediskurses in</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m">Preußen im 18. und 19. Jahrhundert. Berlin: Duncker &amp; Humbolt</title>
+				<imprint>
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+	<note>Schriften zur Rechtsgeschichte; Heft 51</note>
+	<note type="raw_reference">Preußen im 18. und 19. Jahrhundert. Berlin: Duncker &amp; Humbolt 1991 (Schriften zur Rechtsgeschichte; Heft 51).</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Das Frauenbild im späten Erzählwerk Eduard von Keyserlings: Darstellung an ausgewählten Erzählungen und Romanen. Essen: Die Blaue Eule</title>
+		<author>
+			<persName><forename type="first">Ulrike</forename><surname>Peter</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Peter, Ulrike: Das Frauenbild im späten Erzählwerk Eduard von Keyserlings: Darstellung an ausgewählten Erzählungen und Romanen. Essen: Die Blaue Eule 1999.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Die literarische Décadence um 1900</title>
+		<author>
+			<persName><forename type="first">Wolfdietrich</forename><surname>Rasch</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1986">1986</date>
+			<pubPlace>München: Beck</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rasch, Wolfdietrich: Die literarische Décadence um 1900. München: Beck 1986.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Irmelin: Eduard von Keyserling. Konstanten und Varianten in seinem erzählerischen Werk ab 1903</title>
+		<author>
+			<persName><surname>Schwalb</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+			<publisher>Europäische</publisher>
+			<pubPlace>Frankfurt am Main</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Schwalb, Irmelin: Eduard von Keyserling. Konstanten und Varianten in seinem erzählerischen Werk ab 1903. Frankfurt am Main: 1993. (Europäische</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Hochschulschriften/I; 1364)</title>
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">Hochschulschriften/I; 1364).</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">Lebenspathos und Décadence um 1900. Studien zur Dialektik der</title>
+		<author>
+			<persName><forename type="first">Angela</forename><surname>Sendlinger</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">Sendlinger, Angela: Lebenspathos und Décadence um 1900. Studien zur Dialektik der</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m">Décadence und der Lebensphilosophie am Beispiel Eduard von Keyserlings und Georg</title>
+				<imprint/>
+	</monogr>
+	<note type="raw_reference">Décadence und der Lebensphilosophie am Beispiel Eduard von Keyserlings und Georg</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Simmels</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Frankfurt</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Main</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<publisher>Europäische</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Simmels. Frankfurt am Main: Peter Lang 1994. (Europäische</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Hochschulschriften/I; 1441)</title>
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">Hochschulschriften/I; 1441).</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Andreas</forename><surname>Sturies</surname></persName>
+		</author>
+		<imprint/>
+		<respStmt>
+			<orgName>Intimität und Öffentlichkeit. Eine Untersuchung der Erzählungen Eduard</orgName>
+		</respStmt>
+	</monogr>
+	<note type="raw_reference">Sturies, Andreas: Intimität und Öffentlichkeit. Eine Untersuchung der Erzählungen Eduard</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Von Keyserlings</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Frankfurt</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Main</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1990">1990</date>
+			<publisher>Peter Lang</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">von Keyserlings. Frankfurt am Main: Peter Lang 1990.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

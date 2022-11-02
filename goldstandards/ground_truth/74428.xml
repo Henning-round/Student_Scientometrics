@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <sequence>
+        <title>Die Gedichte von Bertolt Brecht in einem Band. - Zehnte Auflage Frankfurt am</title>
+        <location>Main:</location>
+        <publisher>Suhrkamp Verlag</publisher>
+        <date>1999.</date>
+    </sequence>
+    <sequence>
+        <editor>Hecht, Werner (Hrsg.):</editor>
+        <source>Brechts Theaterarbeit. Seine Inszenierung des Kaukasischen Kreidekreises</source>
+        <date>1954.</date>
+        <note>-</note>
+        <location>Frankfurt am Main:</location>
+        <publisher>Suhrkamp Verlag</publisher>
+        <date>1990.</date>
+    </sequence>
+    <sequence>
+        <author>Kesting, Marianne:</author>
+        <title>Bertolt Brecht.</title>
+        <location>- Hamburg:</location>
+        <publisher>Rowohlt</publisher>
+        <date>1999.</date>
+    </sequence>
+    <sequence>
+        <author>Knopf, Jan:</author>
+        <title>Bertolt Brecht. Buckower Elegien.</title>
+        <location>Frankfurt am Main:</location>
+        <publisher>Suhrkamp Verlag</publisher>
+        <date>1991.</date>
+    </sequence>
+    <sequence>
+        <author>Mittenzwei, Werner:</author>
+        <title>Das Leben des Bertolt Brecht oder Der Umgang mit den Welt-rätseln.</title>
+        <location>- Frankfurt am Main:</location>
+        <publisher>Suhrkamp Verlag</publisher>
+        <date>1987.</date>
+    </sequence>
+    <sequence>
+        <editor>Müller, Klaus-Detlef (Hrsg.):</editor>
+        <source>Bertolt Brecht. Epoche - Werk - Wirkung. -</source>
+        <location>Müchen:</location>
+        <publisher>Verlag C.H. Beck.</publisher>
+    </sequence>
+    <sequence>
+        <author>Payrhuber, Franz-Josef:</author>
+        <title>Literaturwissen für Schule und Studium. Bertolt Brecht.</title>
+        <location>- Stuttgart:</location>
+        <publisher>Reclam</publisher>
+        <date>1998.</date>
+    </sequence>
+    <sequence>
+        <author>Rothmann, Kurt:</author>
+        <title>Kleine Geschichte der deutschen Literatur.</title>
+        <location>- Stuttgart:</location>
+        <publisher>Reclam</publisher>
+        <date>1992.</date>
+    </sequence>
+    <sequence>
+        <editor>Schweikle, Günther u. Irmgard (Hrsg.):</editor>
+        <source>Metzler-Literatur-Lexikon. Begriffe und Definitionen.</source>
+        <note>-</note>
+        <volume>2., überarb. Auflage</volume>
+        <location>Stuttgart:</location>
+        <publisher>Metzler</publisher>
+        <date>1990.</date>
+    </sequence>
+    <sequence>
+        <title>Werke. Große kommentierte Berliner und Frankfurter</title>
+        <volume>Ausgabe,</volume>
+        <volume>Band 30, Briefe 3,</volume>
+        <publisher>Suhrkamp Verlag</publisher>
+        <location>Frankfurt am Main</location>
+        <date>1998.</date>
+    </sequence>
+    <sequence>
+        <title>Werke. Große kommentierte Berliner und Frankfurter</title>
+        <volume>Ausgabe,</volume>
+        <volume>Band 23, Schriften 3,</volume>
+        <publisher>Suhrkamp Verlag</publisher>
+        <location>Frankfurt am Main</location>
+        <date>1993.</date>
+    </sequence>
+</dataset>

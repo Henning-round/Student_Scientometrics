@@ -1,0 +1,811 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Metaphors, models and language change</title>
+		<author>
+			<persName><forename type="first">Jean</forename><surname>Aitchison</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Motives for Language Change</title>
+				<editor>
+			<persName><forename type="first">Raymond</forename><surname>Hickey</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2003">2003</date>
+			<biblScope unit="page" from="39" to="53" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Aitchison, Jean: Metaphors, models and language change. In: Raymond Hickey (Hrsg.): Motives for Language Change. Cambridge: Cambridge University Press, 2003. S. 39-53.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<author>
+			<persName><forename type="first">Michael</forename><forename type="middle">A</forename><surname>Arbib</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Mary</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hesse</surname></persName>
+		</author>
+		<title level="m">The construction of reality. Cambridge u. a</title>
+				<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Arbib, Michael A. / Mary B. Hesse: The construction of reality. Cambridge u. a.: Cambridge University Press, 1986.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<author>
+			<persName><forename type="first">Helmut / Michael</forename><surname>Bach</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Heine</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Der Krankheitsbegriff in der Psychoanalyse. Bestimmungsversuche. Göttingen: Verlag für Medizinische Psychologie</title>
+				<editor>
+			<persName><forename type="first">Helmut</forename><surname>Bach</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="1981">1981</date>
+			<biblScope unit="page" from="11" to="35" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bach, Helmut / Michael Heine: Pseudonormalität und „Normalpathologie“. In: Helmut Bach (Hrsg.): Der Krankheitsbegriff in der Psychoanalyse. Bestimmungsversuche. Göttingen: Verlag für Medizinische Psychologie, 1981. S. 11-35.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<author>
+			<persName><forename type="first">Günter</forename><surname>Bader</surname></persName>
+		</author>
+		<title level="m">Melancholie und Metapher. Eine Skizze. Tübingen: Mohr (Siebeck)</title>
+				<imprint>
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bader, Günter: Melancholie und Metapher. Eine Skizze. Tübingen: Mohr (Siebeck), 1990.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<author>
+			<persName><forename type="first">Karl</forename><forename type="middle">:</forename><surname>Beth</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Psychopathologie Und Religionspsychologie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Archiv für die gesamte Psychologie</title>
+				<imprint>
+			<date type="published" when="1931">1931</date>
+			<biblScope unit="volume">80</biblScope>
+			<biblScope unit="page" from="89" to="119" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Beth, Karl: Psychopathologie und Religionspsychologie. In: Archiv für die gesamte Psychologie, Jg. 80 (1931). S. 89-119.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<author>
+			<persName><forename type="first">David</forename><surname>Cooper</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Suhrkamp</title>
+				<meeting><address><addrLine>Frankfurt (Main</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1971">1971</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cooper, David: Psychiatrie und Anti-Psychiatrie. Frankfurt (Main): Suhrkamp, 1971.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Die Rationalität der Metapher. Eine sprachphilosophische und kommunikationstheoretische Untersuchung</title>
+		<author>
+			<persName><forename type="first">Bernhard</forename><surname>Debatin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<publisher>de Gruyter</publisher>
+			<pubPlace>Berlin, New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Debatin, Bernhard: Die Rationalität der Metapher. Eine sprachphilosophische und kommunikationstheoretische Untersuchung. Berlin, New York: de Gruyter, 1995.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Eine Rose ist eine Rose … Zur Rolle und Funktion von Metaphern in Wissenschaft und Therapie</title>
+		<author>
+			<persName><forename type="first">Bernhard</forename><surname>Debatin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Rationalität und Irrationalität der Metapher</title>
+				<editor>
+			<persName><surname>Hans Rudi</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Fischer</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Weilerswist: Velbrück</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="page" from="30" to="47" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Debatin, Bernhard: Rationalität und Irrationalität der Metapher. In: Hans Rudi Fischer (Hrsg.): Eine Rose ist eine Rose … Zur Rolle und Funktion von Metaphern in Wissenschaft und Therapie. Weilerswist: Velbrück, 2005. S. 30-47.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Heilige oder Hexen? Schicksale auffälliger Frauen in Mittelalter und Frühneuzeit</title>
+		<author>
+			<persName><forename type="first">Peter</forename><surname>Dinzelbacher</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<pubPlace>München, Zürich, London: Artemis</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Dinzelbacher, Peter: Heilige oder Hexen? Schicksale auffälliger Frauen in Mittelalter und Frühneuzeit. München, Zürich, London: Artemis, 1995.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Übersetzt nach der Textrevision der vierten Auflage des Diagnostic and Statistical Manual of Mental Disorders der American Psychiatric Association</title>
+		<author>
+			<persName><surname>Dsm-Iv-Tr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Diagnostisches und stastisches Manual psychischer Störungen. Textrevision</title>
+				<imprint>
+			<publisher>Hogrefe</publisher>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">DSM-IV-TR: Diagnostisches und stastisches Manual psychischer Störungen. Textrevision. Übersetzt nach der Textrevision der vierten Auflage des Diagnostic and Statistical Manual of Mental Disorders der American Psychiatric Association. Göttingen u. a.: Hogrefe, 2003.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Sozialpsychiatrische Aspekte der Ethik</title>
+		<author>
+			<persName><forename type="first">Asmus</forename><surname>Finzen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Ethik in der Psychiatrie. Wertebegründung - Wertedurchsetzung</title>
+				<editor>
+			<persName><forename type="first">Walter</forename><surname>Pöldinger U. A</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Berlin, Heidelberg</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="1991">1991</date>
+			<biblScope unit="page" from="206" to="215" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Finzen, Asmus: Sozialpsychiatrische Aspekte der Ethik. In: Walter Pöldinger u. a. (Hrsg.): Ethik in der Psychiatrie. Wertebegründung – Wertedurchsetzung. Berlin, Heidelberg: Springer, 1991. S. 206-215.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">Asmus: „Der Verwaltungsrat ist schizophren</title>
+		<author>
+			<persName><surname>Finzen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<publisher>Psychiatrie</publisher>
+			<pubPlace>Bonn</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Die Krankheit und das Stigma</note>
+	<note type="raw_reference">Finzen, Asmus: „Der Verwaltungsrat ist schizophren.“ Die Krankheit und das Stigma. Bonn: Psychiatrie, 1996.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<author>
+			<persName><forename type="first">Michel</forename><surname>Foucault</surname></persName>
+		</author>
+		<title level="m">Schriften in vier Bänden. Bd. I: 1954-1969. Hrsg. von Daniel Defert</title>
+				<editor>
+			<persName><forename type="first">Richter</forename><surname>Ärzte</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Und Hexer Im 17</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Jahrhundert</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Frankfurt (Main</addrLine></address></meeting>
+		<imprint>
+			<publisher>Francois Ewald</publisher>
+			<date type="published" when="2001">2001</date>
+			<biblScope unit="page" from="958" to="973" />
+		</imprint>
+	</monogr>
+	<note>Suhrkamp</note>
+	<note type="raw_reference">Foucault, Michel: Ärzte, Richter und Hexer im 17. Jahrhundert. In: Schriften in vier Bänden. Bd. I: 1954-1969. Hrsg. von Daniel Defert, Francois Ewald. Frankfurt (Main): Suhrkamp, 2001. S. 958-973.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<author>
+			<persName><forename type="first">Hans-Jürgen</forename><surname>Fraas</surname></persName>
+		</author>
+		<title level="m">Die Religiosität des Menschen. Ein Grundriß der Religionspsychologie. Göttingen: Vandenhoeck &amp; Ruprecht</title>
+				<imprint>
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Fraas, Hans-Jürgen: Die Religiosität des Menschen. Ein Grundriß der Religionspsychologie. Göttingen: Vandenhoeck &amp; Ruprecht, 1990.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Einführung in die historische Semantik</title>
+		<author>
+			<persName><forename type="first">Gerd</forename><surname>Fritz</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<publisher>Niemeyer</publisher>
+			<pubPlace>Tübingen</pubPlace>
+		</imprint>
+	</monogr>
+	<note>= Germanistische Arbeitshefte; 42.</note>
+	<note type="raw_reference">Fritz, Gerd: Einführung in die historische Semantik. [= Germanistische Arbeitshefte; 42.] Tübingen: Niemeyer, 2005.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Zur Wissenschaft vom Menschen. [= Schriften aus dem Nachlass. Hrsg. von Rainer Funk</title>
+		<author>
+			<persName><forename type="first">Erich</forename><surname>Fromm</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1991">1991</date>
+			<publisher>Beltz</publisher>
+			<biblScope unit="volume">6</biblScope>
+			<pubPlace>Weinheim, Basel</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Die Pathologie der Normalität</note>
+	<note type="raw_reference">Fromm, Erich: Die Pathologie der Normalität. Zur Wissenschaft vom Menschen. [= Schriften aus dem Nachlass. Hrsg. von Rainer Funk; 6.] Weinheim, Basel: Beltz, 1991.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<author>
+			<persName><forename type="first">Detlef: Zwischen</forename><surname>Garbe</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Widerstand</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Martyrium</surname></persName>
+		</author>
+		<title level="m">Die Zeugen Jehovas im „Dritten Reich“. München: Oldenbourg</title>
+				<imprint>
+			<date>19994</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Garbe, Detlef: Zwischen Widerstand und Martyrium. Die Zeugen Jehovas im „Dritten Reich“. München: Oldenbourg, 19994.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<author>
+			<persName><forename type="first">Wilhelm</forename><surname>Geerlings</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Das Herz im Aberglauben</title>
+				<editor>
+			<persName><forename type="first">Andreas</forename><surname>Ders</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Mügge</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<biblScope unit="page" from="271" to="283" />
+		</imprint>
+	</monogr>
+	<note>Das Herz</note>
+	<note type="raw_reference">Geerlings, Wilhelm: Das Herz im Aberglauben. In: Ders., Andreas Mügge (Hrsg.): Das Herz. Organ und Metapher. Paderborn: Schöningh, 2006. S. 271-283.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<author>
+			<persName><forename type="first">Raymond</forename><forename type="middle">W</forename><surname>Gibbs</surname><genName>Jr</genName></persName>
+		</author>
+		<title level="m">The Poetics of Mind. Figurative thought, language, and understanding</title>
+				<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gibbs, Raymond W. Jr.: The Poetics of Mind. Figurative thought, language, and understanding. Cambridge: Cambridge University Press, 1994.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Anneliese Michel und ihre Dämonen. Der Fall Klingenberg in wissenschaftlicher Sicht</title>
+		<author>
+			<persName><forename type="first">Felicitas</forename><surname>Goodman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1993">1993³</date>
+			<pubPlace>Stein am Rhein; Christiana</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Goodman, Felicitas: Anneliese Michel und ihre Dämonen. Der Fall Klingenberg in wissenschaftlicher Sicht. Stein am Rhein: Christiana, 1993³.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Karl: Allgemeine</forename><surname>Jaspers</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Psychopathologie</surname></persName>
+		</author>
+		<imprint>
+			<date>19597</date>
+			<publisher>Springer</publisher>
+			<pubPlace>Berlin, Göttingen, Heidelberg</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Jaspers, Karl: Allgemeine Psychopathologie. Berlin, Göttingen, Heidelberg: Springer, 19597.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Der Krankheitsmythos in der Psychopathologie. Darstellung einer Kontroverse</title>
+		<author>
+			<persName><forename type="first">Heinrich</forename><forename type="middle">(</forename><surname>Keupp</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hrsg</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1972">1972</date>
+			<publisher>Urban &amp; Schwarzenberg</publisher>
+			<pubPlace>München; Berlin, Wien</pubPlace>
+		</imprint>
+	</monogr>
+	<note>= Fortschritte der klinischen Psychologie; 2.</note>
+	<note type="raw_reference">Keupp, Heinrich (Hrsg.): Der Krankheitsmythos in der Psychopathologie. Darstellung einer Kontroverse. [= Fortschritte der klinischen Psychologie; 2.] München, Berlin, Wien: Urban &amp; Schwarzenberg, 1972.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Ernst</forename><surname>Klee</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1978">1978</date>
+			<publisher>Fischer</publisher>
+			<pubPlace>Frankfurt (Main</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Psychiatrie-Report</note>
+	<note type="raw_reference">Klee, Ernst: Psychiatrie-Report. Frankfurt (Main): Fischer, 1978.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<author>
+			<persName><forename type="first">George / Mark</forename><surname>Lakoff</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Johnson</surname></persName>
+		</author>
+		<title level="m">Leben in Metaphern. Konstruktion und Gebrauch von Sprachbildern</title>
+				<meeting><address><addrLine>Heidelberg</addrLine></address></meeting>
+		<imprint>
+			<publisher>Auer</publisher>
+			<date>20044</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lakoff, George / Mark Johnson: Leben in Metaphern. Konstruktion und Gebrauch von Sprachbildern. Heidelberg: Auer, 20044.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Dienstverweigerung aus religiösen Gründen</title>
+		<author>
+			<persName><forename type="first">Johannes</forename><surname>Lange</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Münchener Medizinische Wochenschrift, Jg</title>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="page" from="13" to="16" />
+			<date type="published" when="1937">1937</date>
+		</imprint>
+	</monogr>
+	<note>Nr. 1. S.</note>
+	<note type="raw_reference">Lange, Johannes: Dienstverweigerung aus religiösen Gründen. In: Münchener Medizinische Wochenschrift, Jg. 84 (1937), Nr. 1. S. 13-16.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<author>
+			<persName><forename type="first">Werner / Annemarie</forename><surname>Leibbrand</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Wettley</surname></persName>
+		</author>
+		<title level="m">Der Wahnsinn. Geschichte der abendländischen Psychopathologie</title>
+				<meeting><address><addrLine>Freiburg, München</addrLine></address></meeting>
+		<imprint>
+			<publisher>Alber</publisher>
+			<date type="published" when="1961">1961</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Leibbrand, Werner / Annemarie Wettley: Der Wahnsinn. Geschichte der abendländischen Psychopathologie. Freiburg, München: Alber, 1961.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Hermann</forename><forename type="middle">:</forename><surname>Lenz</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Glaube Und Wahn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Fortschritte der Neurologie, Psychiatrie und ihrer Grenzgebiete</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="341" to="359" />
+			<date type="published" when="1973">1973</date>
+		</imprint>
+	</monogr>
+	<note>Jg.</note>
+	<note type="raw_reference">Lenz, Hermann: Glaube und Wahn. In: Fortschritte der Neurologie, Psychiatrie und ihrer Grenzgebiete, Jg. 41 (1973), Nr. 6. S. 341-359.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Wie Organisationen mit Metaphern Produkte und Identitäten erfinden</title>
+		<author>
+			<persName><forename type="first">Wolf-Andreas</forename><surname>Liebert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sinnformeln. Linguistische und soziologische Analysen von Leitbildern, Metaphern und anderen kollektiven Orientierungsmustern</title>
+				<editor>
+			<persName><forename type="first">Susan</forename><surname>Ders</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Geideck</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Berlin, New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>de Gruyter</publisher>
+			<date type="published" when="2003">2003</date>
+			<biblScope unit="page" from="83" to="101" />
+		</imprint>
+	</monogr>
+	<note>Wissenskonstruktion als poetisches Verfahren. = Linguistik. Impulse und Tendenzen; 2.</note>
+	<note type="raw_reference">Liebert, Wolf-Andreas: Wissenskonstruktion als poetisches Verfahren. Wie Organisationen mit Metaphern Produkte und Identitäten erfinden. In: Ders., Susan Geideck (Hrsg.): Sinnformeln. Linguistische und soziologische Analysen von Leitbildern, Metaphern und anderen kollektiven Orientierungsmustern. [= Linguistik. Impulse und Tendenzen; 2.] Berlin, New York: de Gruyter, 2003. S. 83-101.</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Eine Rose ist eine Rose … Zur Rolle und Funktion von Metaphern in Wissenschaft und Therapie</title>
+		<author>
+			<persName><forename type="first">Wolf-Andreas</forename><surname>Liebert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Metaphern als Handlungsmuster der Welterzeugung</title>
+				<editor>
+			<persName><forename type="first">Hans-Rudi</forename><surname>Fischer</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Weilerswist</addrLine></address></meeting>
+		<imprint>
+			<publisher>Velbrück</publisher>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="page" from="207" to="233" />
+		</imprint>
+	</monogr>
+	<note>Das verborgene Metaphern-Spiel der Naturwissenschaften</note>
+	<note type="raw_reference">Liebert, Wolf-Andreas: Metaphern als Handlungsmuster der Welterzeugung. Das verborgene Metaphern-Spiel der Naturwissenschaften. In: Hans-Rudi Fischer (Hrsg.): Eine Rose ist eine Rose … Zur Rolle und Funktion von Metaphern in Wissenschaft und Therapie. Weilerswist: Velbrück, 2005. S. 207-233.</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Einige Faktoren bei der Identifikation und Definition psychischer Krankheit</title>
+		<author>
+			<persName><forename type="first">David</forename><surname>Mechanic</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Keupp</title>
+		<imprint>
+			<biblScope unit="page" from="109" to="121" />
+			<date type="published" when="1972">1972</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mechanic, David: Einige Faktoren bei der Identifikation und Definition psychischer Krankheit. In: Keupp (1972), a. a. O. S. 109-121.</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<author>
+			<persName><forename type="first">Christian</forename><surname>Müller</surname></persName>
+		</author>
+		<title level="m">Lexikon der Psychiatrie. Gesammelte Abhandlungen der gebräuchlichsten psychiatrischen Begriffe</title>
+				<meeting><address><addrLine>Berlin, Heidelberg; New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="1986">1986²</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Müller, Christian: Lexikon der Psychiatrie. Gesammelte Abhandlungen der gebräuchlichsten psychiatrischen Begriffe. Berlin, Heidelberg, New York: Springer, 1986².</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<author>
+			<persName><forename type="first">Irmgard / Christian</forename><surname>Müller</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Schulze</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Das Herz als anatomisches und theologisches Thema im Mittelalter</title>
+				<imprint>
+			<date type="published" when="2006">2006</date>
+			<biblScope unit="page" from="133" to="148" />
+		</imprint>
+	</monogr>
+	<note>Wilhelm Geerlings, Andreas Mügge (Hrsg.): Das Herz</note>
+	<note type="raw_reference">Müller, Irmgard / Christian Schulze: Das Herz als anatomisches und theologisches Thema im Mittelalter. In: Wilhelm Geerlings, Andreas Mügge (Hrsg.): Das Herz. Organ und Metapher. Paderborn: Schöningh, 2006. S. 133-148.</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<author>
+			<persName><forename type="first">Leo</forename><surname>Navratil</surname></persName>
+		</author>
+		<title level="m">Schizophrenie und Religion. Berlin: Brinkmann &amp; Bose</title>
+				<imprint>
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Navratil, Leo: Schizophrenie und Religion. Berlin: Brinkmann &amp; Bose, 1992.</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">Psychiatrische Probleme der Gegenwart I</title>
+		<author>
+			<persName><forename type="first">Mortimer</forename><surname>Ostow</surname></persName>
+		</author>
+		<editor>Alfred M. Freedman u. a.</editor>
+		<imprint>
+			<date type="published" when="1990">1990</date>
+			<publisher>Thieme</publisher>
+			<biblScope unit="page" from="319" to="328" />
+			<pubPlace>Hrsg.; Stuttgart</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Religion und Psychiatrie. = Psychiatrie in Praxis und Klinik; 4.</note>
+	<note type="raw_reference">Ostow, Mortimer: Religion und Psychiatrie. In: Alfred M. Freedman u. a. (Hrsg.): Psychiatrische Probleme der Gegenwart I. [= Psychiatrie in Praxis und Klinik; 4.] Stuttgart: Thieme, 1990. S. 319-328.</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<author>
+			<persName><forename type="first">Uwe</forename><surname>Peters</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Henrik</surname></persName>
+		</author>
+		<title level="m">Wörterbuch der Psychiatrie und medizinischen Psychologie. Augsburg: Bechtermünz</title>
+				<imprint>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Peters, Uwe Henrik: Wörterbuch der Psychiatrie und medizinischen Psychologie. Augsburg: Bechtermünz, 1997.</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<author>
+			<persName><forename type="first">Reinhard</forename><surname>Platzek</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Zu den Erscheinungen Wahn, Glaube, Aberglaube und Irrtum aus psychiatrischer Sicht. Differentialdiagnostische Schwierigkeiten</title>
+				<imprint>
+			<date type="published" when="1996">1996</date>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="545" to="559" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Platzek, Reinhard: Zu den Erscheinungen Wahn, Glaube, Aberglaube und Irrtum aus psychiatrischer Sicht. Differentialdiagnostische Schwierigkeiten. In: Würzburger medizinhistorische Mitteilungen, Jg. 14 (1996). S. 545-559.</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Klinische Ethnopsychologie. Einführung in die transkulturelle Psychologie</title>
+		<author>
+			<persName><forename type="first">Renaud</forename><surname>Quekelberghe</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Van</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychopathologie und Psychotherapie</title>
+		<imprint>
+			<date type="published" when="1991">1991</date>
+			<publisher>Asanger</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Quekelberghe, Renaud van: Klinische Ethnopsychologie. Einführung in die transkulturelle Psychologie, Psychopathologie und Psychotherapie. Heidelberg: Asanger, 1991.</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<author>
+			<persName><surname>Reiter-Theil</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Stella: Versorgung und Therapie psychisch kranker und gestörter Menschen</title>
+				<imprint>
+			<date type="published" when="1995">1995</date>
+			<biblScope unit="page" from="68" to="77" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Reiter-Theil, Stella: Versorgung und Therapie psychisch kranker und gestörter Menschen. In: Dies., Winfried Kahlke (Hrsg.): Ethik in der Medizin. Stuttgart: Enke, 1995. S. 68-77.</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Die Rolle des psychisch Kranken und die Dynamik psychischer Störung. Ein Bezugsrahmen für die Forschung</title>
+		<author>
+			<persName><forename type="first">Thomas</forename><forename type="middle">J</forename><surname>Scheff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Keupp</title>
+		<imprint>
+			<biblScope unit="page" from="136" to="156" />
+			<date type="published" when="1972">1972</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Scheff, Thomas J.: Die Rolle des psychisch Kranken und die Dynamik psychischer Störung. Ein Bezugsrahmen für die Forschung. In: Keupp (1972), a. a. O. S. 136-156.</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">Theologische Realenzyklopädie, Bd. 30</title>
+		<author>
+			<persName><forename type="first">Horst</forename><forename type="middle">:</forename><surname>Seidl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">“</forename><surname>Artikel „seele V: Kirchen- Und Philosophiegeschichtlich</surname></persName>
+		</author>
+		<editor>Gerhard Müller</editor>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>de Gruyter</publisher>
+			<biblScope unit="page" from="748" to="759" />
+			<pubPlace>Berlin, New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Seidl, Horst: Artikel „Seele V: Kirchen- und philosophiegeschichtlich“. In: Gerhard Müller (Hrsg.): Theologische Realenzyklopädie, Bd. 30. Berlin, New York: de Gruyter, 1999. S. 748-759.</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title level="m" type="main">Krankheit als Metapher / Aids und seine Metaphern</title>
+		<author>
+			<persName><forename type="first">Susan</forename><surname>Sontag</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<publisher>Fischer</publisher>
+			<pubPlace>Frankfurt (Main</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sontag, Susan: Krankheit als Metapher / Aids und seine Metaphern. Frankfurt (Main): Fischer, 2003.</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Der Mythos von der seelischen Krankheit</title>
+		<author>
+			<persName><forename type="first">Thomas</forename><surname>Szasz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Keupp</title>
+		<imprint>
+			<biblScope unit="page" from="44" to="56" />
+			<date type="published" when="1972">1972</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Szasz, Thomas: Der Mythos von der seelischen Krankheit. In: Keupp (1972), a. a. O. S. 44-56.</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Sollmann: „Ernste Bibelforscher.“ In: Deutsche Zeitschrift für die gesamte gerichtliche Medizin</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">/ H</forename><surname>Wagner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Jg</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="433" to="444" />
+			<date type="published" when="1937">1937</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wagner, W. / H. Sollmann: „Ernste Bibelforscher.“ In: Deutsche Zeitschrift für die gesamte gerichtliche Medizin, Jg. 28 (1937). S. 433-444.</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Watzlawick</surname></persName>
+		</author>
+		<title level="m">Wie wirklich ist die Wirklichkeit? Wahn, Täuschung, Verstehen. München</title>
+				<meeting><address><addrLine>Zürich</addrLine></address></meeting>
+		<imprint>
+			<publisher>Piper</publisher>
+			<date>199925</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Watzlawick, Paul: Wie wirklich ist die Wirklichkeit? Wahn, Täuschung, Verstehen. München, Zürich: Piper, 199925.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

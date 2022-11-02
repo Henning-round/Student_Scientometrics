@@ -1,0 +1,222 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Primärtexte</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">Primärtexte:</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Guzmán de Alfarache, 2 Bd.e, hsg</title>
+		<author>
+			<persName><forename type="first">M</forename></persName>
+		</author>
+		<editor>v. J. M. Micó</editor>
+		<imprint>
+			<date>Madrid 62003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">M. Alemán, Guzmán de Alfarache, 2 Bd.e, hsg. v. J. M. Micó, Madrid 62003.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="middle">V F</forename><surname>Lazarillo De Tormes</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Rico</surname></persName>
+		</author>
+		<imprint>
+			<date>Madrid 182005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lazarillo de Tormes, hsg. v. F. Rico, Madrid 182005.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Sekundärliteratur</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">Sekundärliteratur:</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Les trois conversions de Guzmán de Alfarache. Regard sur la critique récente</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Cavillac</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bulletin Hispanique</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="page" from="149" to="201" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">M. Cavillac, Les trois conversions de Guzmán de Alfarache. Regard sur la critique récente, in: Bulletin Hispanique 95 (1993), S. 149 - 201.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Entstehung des frühneuzeitlichen Europa 1550 - 1648</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">V</forename><surname>Dülmen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">R. v. Dülmen, Entstehung des frühneuzeitlichen Europa 1550 - 1648, Frankfurt a. M. 1982.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Diskurs-Renovatio bei Lope de Vega und Calderón</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Küpper</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1990">1990</date>
+			<pubPlace>Tübingen</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. Küpper, Diskurs-Renovatio bei Lope de Vega und Calderón, Tübingen 1990.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Barocke Subjektskonstitution in Mateo Alemáns Guzmán de Alfarache</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Matzat</surname></persName>
+		</author>
+		<editor>J. Küpper, F. Wolfzettel</editor>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<biblScope unit="page" from="269" to="291" />
+			<pubPlace>München</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Diskurse des Barock. Dezentrierte und rezentrierte Welt?</note>
+	<note type="raw_reference">W. Matzat, Barocke Subjektskonstitution in Mateo Alemáns Guzmán de Alfarache, in: J. Küpper, F. Wolfzettel (Hsgg.), Diskurse des Barock. Dezentrierte und rezentrierte Welt?, München 2000, S. 269 - 291.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Der Beitrag der Romanistik zur Barockdiskussion</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Neumeister</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Europäische Barock-Rezeption</title>
+				<editor>
+			<persName><forename type="first">K</forename><surname>Garber</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Wiesbaden; Bd. 2, S</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1991">1991</date>
+			<biblScope unit="page" from="841" to="856" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">S. Neumeister, Der Beitrag der Romanistik zur Barockdiskussion, in: K. Garber (Hsg.), Europäische Barock-Rezeption, Wiesbaden 1991, Bd. 2, S. 841 - 856.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Diskurse des Barock. Dezentrierte und rezentrierte Welt?</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Nitsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Barocke</forename><surname>Dezentrierung</surname></persName>
+		</author>
+		<editor>J. Küpper, F. Wolfzettel</editor>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<biblScope unit="page" from="219" to="244" />
+			<pubPlace>München</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Spiel und Ernst in Lope de Vegas ‚Dorotea</note>
+	<note type="raw_reference">W. Nitsch, Barocke Dezentrierung. Spiel und Ernst in Lope de Vegas ‚Dorotea’, in: J. Küpper, F. Wolfzettel (Hsg.), Diskurse des Barock. Dezentrierte und rezentrierte Welt?, München 2000, S. 219 - 244.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Original Sin and the ‘Conversion’ in the Guzmán de Alfarache</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">N</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bulletin of Hispanic Studies LI</title>
+		<imprint>
+			<biblScope unit="page" from="346" to="364" />
+			<date type="published" when="1974">1974</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">M. N. Norval, Original Sin and the ‘Conversion’ in the Guzmán de Alfarache, in: Bulletin of Hispanic Studies LI (1974), S. 346 - 364.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">La novela picaresca y el narrador fidedigno</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hispanic Review</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="55" to="75" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">A. Rey, La novela picaresca y el narrador fidedigno, in: Hispanic Review 47, 1 (1979), S. 55 - 75.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Der Barockbegriff in der Romania. Notizen zu einem vorläufigen Resümee</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Schulz-Buschhaus</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Zeitschrift für Literaturwissenschaft und Linguistik</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="page" from="6" to="24" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">U. Schulz-Buschhaus, Der Barockbegriff in der Romania. Notizen zu einem vorläufigen Resümee, in: Zeitschrift für Literaturwissenschaft und Linguistik 98 (1995), S. 6 - 24.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

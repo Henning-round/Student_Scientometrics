@@ -1,0 +1,259 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<monogr>
+		<author>
+			<persName><forename type="first">Roland</forename><surname>Barthes</surname></persName>
+		</author>
+		<title level="m">Am Nullpunkt der Literatur</title>
+				<meeting><address><addrLine>Hamburg</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1959">1959</date>
+			<biblScope unit="page" from="31" to="41" />
+		</imprint>
+	</monogr>
+	<note>Schreibweise des Romans</note>
+	<note type="raw_reference">Barthes, Roland: Schreibweise des Romans, in: Am Nullpunkt der Literatur, Hamburg 1959, S. 31-41.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Der Entfremdungsbegriff in der Marxschen Theorie und sein Bezug auf kleinbürgerliche und proletarische Frauenbewegungen um 1900</title>
+		<author>
+			<persName><forename type="first">Antje</forename><surname>Beier</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<pubPlace>Hannover</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Beier, Antje: Der Entfremdungsbegriff in der Marxschen Theorie und sein Bezug auf kleinbürgerliche und proletarische Frauenbewegungen um 1900, Hannover 2001.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<author>
+			<persName><forename type="first">Karl</forename><surname>Blüher</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Alfred</surname></persName>
+		</author>
+		<title level="m">Robbe-Grillet zwischen Moderne und Postmoderne</title>
+				<meeting><address><addrLine>Hrsg.; Tübingen</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Blüher, Karl Alfred (Hrsg.): Robbe-Grillet zwischen Moderne und Postmoderne, Tübingen 1992.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<author>
+			<persName><forename type="first">Bernd</forename><surname>Dauer</surname></persName>
+		</author>
+		<title level="m">Studien zur Erzählstruktur in den Romanen Alain Robbe-Grillets und Michel Butors</title>
+				<meeting><address><addrLine>Heidelberg</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1976">1976</date>
+		</imprint>
+		<respStmt>
+			<orgName>Wirklichkeitsflucht und Entfremdung</orgName>
+		</respStmt>
+	</monogr>
+	<note type="raw_reference">Dauer, Bernd: Wirklichkeitsflucht und Entfremdung, Studien zur Erzählstruktur in den Romanen Alain Robbe-Grillets und Michel Butors, Heidelberg 1976.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<author>
+			<persName><forename type="first">Terry</forename><surname>Eagelton</surname></persName>
+		</author>
+		<title level="m">Einführung in die Literaturtheorie, 4. Auflage</title>
+				<meeting><address><addrLine>Stuttgart</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Eagelton, Terry: Einführung in die Literaturtheorie, 4. Auflage, Stuttgart 1997.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<author>
+			<persName><forename type="first">Martin</forename><surname>Esslin</surname></persName>
+		</author>
+		<title level="m">Das Theater des Absurden, 17. Auflage</title>
+				<meeting><address><addrLine>Hamburg</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Esslin, Martin: Das Theater des Absurden, 17. Auflage, Hamburg 1996.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<author>
+			<persName><forename type="first">Martin</forename><surname>Heiddeger</surname></persName>
+		</author>
+		<title level="m">Der Ursprung des Kunstwerkes</title>
+				<meeting><address><addrLine>Stuttgart</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1960">1960</date>
+		</imprint>
+	</monogr>
+	<note>Reclam</note>
+	<note type="raw_reference">Heiddeger, Martin: Der Ursprung des Kunstwerkes, (Reclam) Stuttgart 1960.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<author>
+			<persName><forename type="first">Wolfgang</forename><surname>Iser</surname></persName>
+		</author>
+		<title level="m">Der Leser als Kompositionselement im realistischen Roman</title>
+				<meeting><address><addrLine>München</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<biblScope unit="page" from="168" to="193" />
+		</imprint>
+	</monogr>
+	<note>Der implizite Leser, 3. Auflage</note>
+	<note type="raw_reference">Iser, Wolfgang: Der Leser als Kompositionselement im realistischen Roman, in: Der implizite Leser, 3. Auflage, München 1994, S.168-193.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Jaques: Das</forename><surname>Lacan</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Spiegelstadium</surname></persName>
+		</author>
+		<editor>Schriften I, hrsg. von Norbert Haas</editor>
+		<imprint>
+			<date type="published" when="1986">1986</date>
+			<biblScope unit="page" from="63" to="70" />
+			<pubPlace>Berlin</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lacan, Jaques: Das Spiegelstadium, in: Schriften I, hrsg. von Norbert Haas, Berlin 1986, S. 63-70.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Die Darstellung der gegenständlichen Welt in den Romanen Alain Robbe-Grillets und Claude Olliers</title>
+		<author>
+			<persName><forename type="first">Gerhard</forename><surname>Mies</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1981">1981</date>
+			<pubPlace>Bonn</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mies, Gerhard: Die Darstellung der gegenständlichen Welt in den Romanen Alain Robbe-Grillets und Claude Olliers, Bonn 1981.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title/>
+		<author>
+			<persName><surname>Robbe-Grillet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Alain: Die Jalousie oder die Eifersucht</title>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note>Reclam</note>
+	<note type="raw_reference">Robbe-Grillet, Alain: Die Jalousie oder die Eifersucht, (Reclam) Stuttgart 1997.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title/>
+		<author>
+			<persName><surname>Robbe-Grillet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Alain: Momentaufnahmen</title>
+		<imprint>
+			<date type="published" when="1963">1963</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Robbe-Grillet, Alain: Momentaufnahmen, München 1963.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<author>
+			<persName><surname>Robbe-Grillet</surname></persName>
+		</author>
+		<title level="m">Alain: Der wiedergekehrte Spiegel, 2. Auflage, Frankfurt/M</title>
+				<imprint>
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Robbe-Grillet, Alain: Der wiedergekehrte Spiegel, 2. Auflage, Frankfurt/M. 1986.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Alain: Argumente für einen neuen Roman</title>
+		<author>
+			<persName><surname>Robbe-Grillet</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1965">1965</date>
+			<pubPlace>München</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Robbe-Grillet, Alain: Argumente für einen neuen Roman, München 1965.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<author>
+			<persName><forename type="first">Marcus</forename><surname>Stiglegge</surname></persName>
+		</author>
+		<idno>am: 10.07</idno>
+		<ptr target="http://www.splatting-image.com/Artikel/Grillet/grillet.htm" />
+		<title level="m">Im Labyrinth der Begierde, Das filmische Werk von Alain Robbe-Grillet</title>
+				<imprint>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Stiglegge, Marcus: Im Labyrinth der Begierde, Das filmische Werk von Alain Robbe-Grillet, unter: http://www.splatting-image.com/Artikel/Grillet/grillet.htm, Zugriff am: 10.07.2002.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<author>
+			<persName><forename type="first">Li</forename><surname>Zhonshang</surname></persName>
+		</author>
+		<title level="m">Entfremdungsbegriff und Historischer Materialismus in der geschichtlichen Entwicklung</title>
+				<meeting><address><addrLine>Aachen</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Zhonshang, Li: Entfremdungsbegriff und Historischer Materialismus in der geschichtlichen Entwicklung, Aachen 1985.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

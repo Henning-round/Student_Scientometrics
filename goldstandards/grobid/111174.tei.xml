@@ -1,0 +1,224 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<monogr>
+		<author>
+			<persName><forename type="first">Farhad</forename><surname>Daftary</surname></persName>
+		</author>
+		<title level="m">The Ismāˁīlīs. Their History and Doctrines</title>
+				<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Farhad Daftary, The Ismāˁīlīs. Their History and Doctrines, Cambridge 1990.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Kurze Geschichte der Ismailiten. Traditionen einer muslimischen Glaubensgemeinschaft</title>
+		<author>
+			<persName><forename type="first">Farhad</forename><surname>Daftary</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<pubPlace>Würzburg</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Farhad Daftary, Kurze Geschichte der Ismailiten. Traditionen einer muslimischen Glaubensgemeinschaft, Würzburg 2003.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<author>
+			<persName><forename type="first">Farhad</forename><surname>Daftary</surname></persName>
+		</author>
+		<title level="m">Mediaeval Ismaˁīlīs History and Thought</title>
+				<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Farhad Daftary (Hsg.), Mediaeval Ismaˁīlīs History and Thought, Cambridge 1996.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title/>
+		<editor>Pio Filippani-Ronconi, Ismaeliti ed “Assassini”, Mailand</editor>
+		<imprint>
+			<date type="published" when="1973">1973</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Pio Filippani-Ronconi, Ismaeliti ed “Assassini”, Mailand 1973.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">History of the Order of Assassins</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Franzius</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1969">1969</date>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">E. Franzius, History of the Order of Assassins, New York 1969.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">L</forename><surname>Jean Claude Frère</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hasan</forename><surname>’ordre Des Assassins</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Sabbah</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Le Vieux De Le Montagne</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1973">1973</date>
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Jean Claude Frère, L’Ordre des Assassins, Hasan Sabbah, le Vieux de le Montagne et l’ismaélisme, Paris 1973.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Heinz</forename><surname>Halm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Die</forename><surname>Schia</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1988">1988</date>
+			<pubPlace>Darmstadt</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Heinz Halm, Die Schia, Darmstadt 1988.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<author>
+			<persName><forename type="first">Heinz</forename><surname>Halm</surname></persName>
+		</author>
+		<title level="m">„Die Assassinen 1092 bis 1273“</title>
+				<editor>
+			<persName><forename type="first">Alexander</forename><surname>Demandt</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="1996">Köln 1996</date>
+			<biblScope unit="page" from="61" to="74" />
+		</imprint>
+	</monogr>
+	<note>Das Attentat in der Geschichte</note>
+	<note type="raw_reference">Heinz Halm, „Die Assassinen 1092 bis 1273“, in: Alexander Demandt (Hsg.), Das Attentat in der Geschichte, Köln 1996, S. 61 - 74.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">The Order of Assasins, The Struggle of the Early Nizârî Ismâˁîlîs against the Islamic World</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Marshall</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hodgson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1955">1955</date>
+			<publisher>Den Haag</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Marshall G. Hodgson, The Order of Assasins, The Struggle of the Early Nizârî Ismâˁîlîs against the Islamic World, Den Haag 1955.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">The Cambridge History of Iran, Bd.5, The Saljuq and Mongol Periods</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Marshall</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hodgson</surname></persName>
+		</author>
+		<editor>J. A. Boyle</editor>
+		<imprint>
+			<date type="published" when="1968">1968</date>
+			<biblScope unit="page" from="422" to="482" />
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+	<note>The Ismâˁîlî State</note>
+	<note type="raw_reference">Marshall G. Hodgson, “The Ismâˁîlî State”, in: J. A. Boyle (Hsg.), The Cambridge History of Iran, Bd.5, The Saljuq and Mongol Periods, Cambridge 1968, S. 422 - 482.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">The Assassins. A Radical Sect in Islam</title>
+		<author>
+			<persName><forename type="first">Bernhard</forename><surname>Lewis</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1967">1967</date>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bernhard Lewis, The Assassins. A Radical Sect in Islam, London 1967.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<author>
+			<persName><forename type="first">Bernhard</forename><surname>Lewis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Die</forename><surname>Assassinen</surname></persName>
+		</author>
+		<title level="m">Zur Tradition des religiösen Mordes im radikalen Islam</title>
+				<meeting><address><addrLine>München</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bernhard Lewis, Die Assassinen. Zur Tradition des religiösen Mordes im radikalen Islam, München 1993.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">W</forename><surname>Madelung</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Artikel „Ismāˁīlīya“</title>
+		<editor>EI, Bd. IV, S</editor>
+		<imprint>
+			<biblScope unit="page" from="198" to="206" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">W. Madelung, Artikel „Ismāˁīlīya“, in: EI, Bd. IV, S. 198 - 206.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

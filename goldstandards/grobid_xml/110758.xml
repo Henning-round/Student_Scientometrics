@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+	<sequence>
+		<author>
+			Quellen
+		</author>
+		<title />
+		<journal />
+		<container-title />
+		<volume />
+		<editor />
+		<publisher />
+		<location />
+		<date />
+		<pages />
+		<url />
+	</sequence>
+	<sequence>
+		<author>
+			AbūZaid As-Sīrāfī
+		</author>
+		<title>
+			Silsilat at-tawārīḫ. Relation des voyages fait par les arabes et les persans dans l’Inde et la Chine, hsg
+		</title>
+		<journal />
+		<container-title />
+		<volume />
+		<editor />
+		<publisher />
+		<location />
+		<date>
+			1845
+		</date>
+		<pages />
+		<url />
+	</sequence>
+	<sequence>
+		<author>
+			AlīAkbar-E Ḫeṭā’ī, Ḫeṭāynāme.VĪrağ Afšār
+		</author>
+		<title />
+		<journal />
+		<container-title />
+		<volume />
+		<editor />
+		<publisher />
+		<location />
+		<date>
+			1357
+		</date>
+		<pages />
+		<url />
+	</sequence>
+	<sequence>
+		<author>
+			IbnBaṭṭūṭa
+		</author>
+		<title>
+			Tuḥfat an-nuẓẓār fī ġarā’ib al-amṣār wa-ˤağā’ib al-asfār. Voyages d’ibn Batoutah, hsg. v. C. Defreméry &amp; B. R. Sanguinetti, 4 Bd
+		</title>
+		<journal />
+		<container-title />
+		<volume />
+		<editor />
+		<publisher />
+		<location />
+		<date />
+		<pages>
+			1853-1858
+		</pages>
+		<url />
+	</sequence>
+	<sequence>
+		<author>
+			Al-Masˤūdī
+		</author>
+		<title>
+			Murūğ aḏ-ḏahab wa-maˤādin al-ğauhar, hsg
+		</title>
+		<journal />
+		<container-title />
+		<volume />
+		<editor>
+			v. B. de Meynard &amp; P. de Courteille
+		</editor>
+		<publisher />
+		<location />
+		<date>
+			1861 - 1917
+		</date>
+		<pages />
+		<url />
+	</sequence>
+	<sequence>
+		<author>
+			WBauer
+		</author>
+		<title>
+			China und die Hoffnung auf Glück. Paradiese, Utopien, Idealvorstellungen in der Geistesgeschichte Chinas
+		</title>
+		<journal />
+		<container-title />
+		<volume />
+		<editor />
+		<publisher />
+		<location />
+		<date>
+			31989
+		</date>
+		<pages />
+		<url />
+	</sequence>
+	<sequence>
+		<author>
+			CEBosworthMHartmannStichwort „aṣ-Ṣīn
+		</author>
+		<title>
+			Encyclopaedia of Islam
+		</title>
+		<journal />
+		<container-title />
+		<volume />
+		<editor>
+			CEBosworthEVan DonzelWPHeinrichsGLecomte
+		</editor>
+		<publisher />
+		<location>
+			Bd. IX, Leiden
+		</location>
+		<date>
+			1997
+		</date>
+		<pages>
+			617-622
+		</pages>
+		<url />
+	</sequence>
+	<sequence>
+		<author>
+			HelmutBrinker
+		</author>
+		<title>
+			Kunstschätze aus China. 5000 v. Chr. bis 900 n. Chr. Neue archäologische Funde aus der Volksrepublik China
+		</title>
+		<journal />
+		<container-title />
+		<volume />
+		<editor>
+			Helmut Brinker, Roger Goepper
+		</editor>
+		<publisher />
+		<location />
+		<date>
+			1980
+		</date>
+		<pages />
+		<url />
+	</sequence>
+	<sequence>
+		<author>
+			JCBürgel
+		</author>
+		<title />
+		<journal />
+		<container-title />
+		<volume />
+		<editor />
+		<publisher />
+		<location />
+		<date>
+			1991
+		</date>
+		<pages />
+		<url />
+	</sequence>
+	<sequence>
+		<author>
+			EConze
+		</author>
+		<title>
+			Kurze Geschichte des Buddhismus
+		</title>
+		<journal />
+		<container-title />
+		<volume />
+		<editor />
+		<publisher />
+		<location />
+		<date>
+			1986
+		</date>
+		<pages />
+		<url />
+	</sequence>
+	<sequence>
+		<author>
+			ACotterellYYap
+		</author>
+		<title>
+			Das Reich der Mitte. 5000 Jahre Geschichte und Tradition des Alten China
+		</title>
+		<journal />
+		<container-title />
+		<volume />
+		<editor />
+		<publisher />
+		<location />
+		<date>
+			1981
+		</date>
+		<pages />
+		<url />
+	</sequence>
+	<sequence>
+		<author>
+			WEichhorn
+		</author>
+		<title>
+			Die Religionen Chinas
+		</title>
+		<journal />
+		<container-title />
+		<volume />
+		<editor />
+		<publisher />
+		<location />
+		<date>
+			1973
+		</date>
+		<pages />
+		<url />
+	</sequence>
+	<sequence>
+		<author>
+			HFrankeRolfTrauzettel
+		</author>
+		<title />
+		<source>
+			Das Chinesische Kaiserreich
+		</source>
+		<container-title />
+		<volume />
+		<editor />
+		<publisher />
+		<location />
+		<date>
+			1968
+		</date>
+		<pages />
+		<url />
+	</sequence>
+	<sequence>
+		<author>
+			JGernet
+		</author>
+		<title>
+			Die chinesische Welt
+		</title>
+		<journal />
+		<container-title />
+		<volume />
+		<editor />
+		<publisher />
+		<location />
+		<date>
+			1988
+		</date>
+		<pages />
+		<url />
+	</sequence>
+	<sequence>
+		<author>
+			HHärtelIndischePlastik
+		</author>
+		<title>
+			Indien und Südostasien (Propyläen Kunstgeschichte Bd. 21)
+		</title>
+		<journal />
+		<container-title />
+		<volume />
+		<editor>
+			JAuboyerHHärtel
+		</editor>
+		<publisher />
+		<location>
+			München
+		</location>
+		<date>
+			21986
+		</date>
+		<pages>
+			159-178
+		</pages>
+		<url />
+	</sequence>
+	<sequence>
+		<author>
+			PHeine
+		</author>
+		<title />
+		<source>
+			Stichwort „Mission: E. Islam“
+		</source>
+		<container-title />
+		<volume />
+		<editor>
+			Lexikon des Mittelalters, Bd. VI
+		</editor>
+		<publisher />
+		<location />
+		<date />
+		<pages>
+			678-679
+		</pages>
+		<url />
+	</sequence>
+	<sequence>
+		<author>
+			PKahle
+		</author>
+		<title>
+			China as Described by Turkish Geographers
+		</title>
+		<journal />
+		<source>
+			Opera minora
+		</source>
+		<volume />
+		<editor>
+			PKahle
+		</editor>
+		<publisher />
+		<location>
+			Leiden
+		</location>
+		<date>
+			1956
+		</date>
+		<pages>
+			312-325
+		</pages>
+		<url />
+	</sequence>
+	<sequence>
+		<author>
+			A
+		</author>
+		<title>
+			Stichwort „Ibn Baṭṭūṭa“
+		</title>
+		<journal />
+		<container-title />
+		<volume />
+		<editor>
+			BLewisVLMénageChPellatJSchacht
+		</editor>
+		<publisher />
+		<location>
+			Bd. III, Leiden, London
+		</location>
+		<date>
+			1971
+		</date>
+		<pages>
+			735-736
+		</pages>
+		<url />
+	</sequence>
+	<sequence>
+		<author>
+			KMyliusDerBuddhismusSeine Lehre Und Seine Geschichte
+		</author>
+		<title>
+			Gautama Buddha. Die vier edlen Wahrheiten. Texte des ursprünglichen Buddhismus, übers. u. hsg. v. K. Mylius
+		</title>
+		<journal />
+		<container-title />
+		<volume />
+		<editor />
+		<publisher />
+		<location>
+			München
+		</location>
+		<date>
+			21986
+		</date>
+		<pages>
+			17-56
+		</pages>
+		<url />
+	</sequence>
+	<sequence>
+		<author>
+			TNagelDerKoran
+		</author>
+		<title>
+			Einführung - Texte - Erläuterungen
+		</title>
+		<journal />
+		<container-title />
+		<volume />
+		<editor />
+		<publisher />
+		<location />
+		<date>
+			31998
+		</date>
+		<pages />
+		<url />
+	</sequence>
+	<sequence>
+		<author>
+			SAḥmad
+		</author>
+		<title>
+			A History of Arab-Islamic Geography (9th - 16th Century A. D.)
+		</title>
+		<journal />
+		<container-title />
+		<volume />
+		<editor />
+		<publisher />
+		<location>
+			Amman
+		</location>
+		<date>
+			1995
+		</date>
+		<pages />
+		<url />
+	</sequence>
+	<sequence>
+		<author>
+			FCReiter
+		</author>
+		<title>
+			Religionen in China. Geschichte, Alltag, Kultur
+		</title>
+		<journal />
+		<container-title />
+		<volume />
+		<editor />
+		<publisher />
+		<location>
+			München
+		</location>
+		<date>
+			2002
+		</date>
+		<pages />
+		<url />
+	</sequence>
+	<sequence>
+		<author>
+			IRobinet
+		</author>
+		<title>
+			Geschichte des Taoismus
+		</title>
+		<journal />
+		<container-title />
+		<volume />
+		<editor />
+		<publisher />
+		<location />
+		<date>
+			1995
+		</date>
+		<pages />
+		<url />
+	</sequence>
+	<sequence>
+		<author>
+			HSchmidt-Glintzer
+		</author>
+		<title>
+			Geschichte der chinesischen Literatur. Die 3000jährige Entwicklung der poetischen, erzählenden und philosophisch-religiösen Literatur von den Anfängen bis zur Gegenwart
+		</title>
+		<journal />
+		<container-title />
+		<volume />
+		<editor />
+		<publisher />
+		<location />
+		<date>
+			1990
+		</date>
+		<pages />
+		<url />
+	</sequence>
+	<sequence>
+		<author>
+			HWSchumann
+		</author>
+		<title>
+			Mahāyāna-Buddhismus. Das Große Fahrzeug über den Ozean des Leidens
+		</title>
+		<journal />
+		<container-title />
+		<volume />
+		<editor />
+		<publisher />
+		<location>
+			München
+		</location>
+		<date>
+			1995
+		</date>
+		<pages />
+		<url />
+	</sequence>
+	<sequence>
+		<author>
+			RAStein
+		</author>
+		<title>
+			Religious Taoism and Popular Religion from the Second to Seventh Centuries
+		</title>
+		<journal />
+		<source>
+			Facets of Taoism
+		</source>
+		<volume />
+		<editor>
+			HWelchASeidel
+		</editor>
+		<publisher />
+		<location>
+			Yale
+		</location>
+		<date>
+			1979
+		</date>
+		<pages>
+			53-81
+		</pages>
+		<url />
+	</sequence>
+	<sequence>
+		<author>
+			RTaylor; DTwitchettFWMote
+		</author>
+		<title>
+			The Cambridge History of China, Bd 8, The Ming Dynasty 1368 - 1644
+		</title>
+		<journal />
+		<container-title />
+		<volume />
+		<editor />
+		<publisher />
+		<location />
+		<date />
+		<pages>
+			840-892
+		</pages>
+		<url />
+	</sequence>
+	<sequence>
+		<author>
+			GFranz-Willing
+		</author>
+		<title>
+			Neueste Geschichte Chinas. 1840 bis zur Gegenwart
+		</title>
+		<journal />
+		<container-title />
+		<volume />
+		<editor />
+		<publisher />
+		<location>
+			Paderborn
+		</location>
+		<date>
+			1975
+		</date>
+		<pages />
+		<url />
+	</sequence>
+	<sequence>
+		<author>
+			AZeki Velidi ToğanStichwort„ˤalīAkbarKhiṭā
+		</author>
+		<title>
+			Encyclopaedia of Islam
+		</title>
+		<journal />
+		<container-title />
+		<volume />
+		<editor>
+			HA RGibbJHKramersELévi-ProvençalJSchacht
+		</editor>
+		<publisher />
+		<location>
+			Bd. I, Leiden, London
+		</location>
+		<date>
+			1960
+		</date>
+		<pages>
+			390-391
+		</pages>
+		<url />
+	</sequence>
+</dataset>

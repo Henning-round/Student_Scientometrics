@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <sequence>
+        <note>Primarliteratur</note>
+    </sequence>
+    <sequence>
+        <editor>Ganz, Peter (Hrsg.):</editor>
+        <source>Gottfried von Straßburg: Tristan.</source>
+        <location>Wiesbaden:</location>
+        <publisher>Brockhaus,</publisher>
+        <date>1978.</date>
+    </sequence>
+    <sequence>
+        <author>Benecke, G. F., W. Müller et F. Zarncke:</author>
+        <title>Mittelhochdeutsches Wörterbuch.</title>
+        <location>Stuttgart:</location>
+        <publisher>Hirzel Verlag,</publisher>
+        <date>1990.</date>
+    </sequence>
+    <sequence>
+        <author>De Boor, Helmut:</author>
+        <title>Geschichte der deutschen Literatur II.</title>
+        <source>Die höfische Literatur.</source>
+        <location>München:</location>
+        <publisher>Beck´sche Verlagsbuchhandlung,</publisher>
+        <date>1991.</date>
+    </sequence>
+    <sequence>
+        <author>Drosdowsky, Günther:</author>
+        <title>Duden. Das Herkunftswörterbuch der deutschen Sprache.</title>
+        <volume>Bd. 7.</volume>
+        <location>Mannheim:</location>
+        <publisher>Dudenverlag,</publisher>
+        <date>1963..</date>
+    </sequence>
+    <sequence>
+        <author>Grimm, Jacob und Wilhelm:</author>
+        <title>Deutsches Wörterbuch.</title>
+        <volume>Bd. 3.</volume>
+        <location>München:</location>
+        <publisher>Deutscher Taschenbuchverlag,</publisher>
+        <date>1984.</date>
+    </sequence>
+    <sequence>
+        <author>Huber, Christoph:</author>
+        <title>Gottfried von Straßburg: Tristan.</title>
+        <location>Berlin:</location>
+        <publisher>Erich Schmidt,</publisher>
+        <date>2001.</date>
+    </sequence>
+    <sequence>
+        <author>Kluge, Friedrich:</author>
+        <title>Etymologische Wörterbuch der deutschen Sprache.</title>
+        <volume>24. Aufl.</volume>
+        <location>Berlin:</location>
+        <publisher>Walter de Gruyter Verlag,</publisher>
+        <date>2002.</date>
+    </sequence>
+    <sequence>
+        <author>McCoeghy, Patrick:</author>
+        <title>Ah, to be young and rich! A new look at Gottfried v. Straßburgs edele herzen in light of Walther´s 42.31.</title>
+        <source>Amsterdamer Beiträge zur Älteren Germanistik</source>
+        <volume>22:</volume>
+        <pages>S 107-137,</pages>
+        <date>1984.</date>
+    </sequence>
+    <sequence>
+        <author>Sayce, Olive:</author>
+        <title>Der Begriff edelez herze im Tristan Gottfried v. Straßburgs von Straßburg.</title>
+        <source>In: Deutsche Vierteljahresschrift für Literaturwissenschaft und Geistesgeschichte</source>
+        <volume>33:</volume>
+        <pages>S 389-413,</pages>
+        <date>1959.</date>
+    </sequence>
+    <sequence>
+        <author>Schöne, Albrecht:</author>
+        <title>Zu Gottfried v. Straßburgs Tristan - Prolog.</title>
+        <source>In: Deutsche Vierteljahresschrift für Literaturwissenschaften und Geistesgeschichte</source>
+        <volume>29:</volume>
+        <pages>S 447-474,</pages>
+        <date>1955.</date>
+    </sequence>
+    <sequence>
+        <author>Speckenbach, Klaus:</author>
+        <title>Studien zum Begriff edelez herze im Tristan Gottfried v. Straßburgs von Straßburg.</title>
+        <location>München:</location>
+        <publisher>Eidos Verlag:</publisher>
+        <location>München,</location>
+        <date>1965.</date>
+    </sequence>
+    <sequence>
+        <author>Spiewok, Wolfgang:</author>
+        <title>Zum Begriff edelez herze bei Gottfried v. Straßburg von Straßburg.</title>
+        <source>In: Weimarer Beiträge,</source>
+        <volume>Jg. IX. Bd. 1:</volume>
+        <pages>S 27-41,</pages>
+        <date>1963.</date>
+    </sequence>
+    <sequence>
+        <author>Wolf, Alois:</author>
+        <title>Gottfried von Straßburg und die Mythe von Tristan und Isolde.</title>
+        <location>Darmstadt:</location>
+        <publisher>Wissenschaftliche Buchgesellschaft,</publisher>
+        <date>1989.</date>
+    </sequence>
+</dataset>

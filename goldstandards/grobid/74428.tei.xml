@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Die Gedichte von Bertolt Brecht in einem Band. - Zehnte Auflage Frankfurt am Main</title>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>Suhrkamp Verlag</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Die Gedichte von Bertolt Brecht in einem Band. - Zehnte Auflage Frankfurt am Main: Suhrkamp Verlag 1999.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<author>
+			<persName><forename type="first">Werner</forename><forename type="middle">(</forename><surname>Hecht</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hrsg</surname></persName>
+		</author>
+		<title level="m">Brechts Theaterarbeit. Seine Inszenierung des Kaukasischen Kreidekreises</title>
+				<meeting><address><addrLine>Frankfurt am Main</addrLine></address></meeting>
+		<imprint>
+			<publisher>Suhrkamp Verlag</publisher>
+			<date type="published" when="1954">1954. 1990</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hecht, Werner (Hrsg.): Brechts Theaterarbeit. Seine Inszenierung des Kaukasischen Kreidekreises 1954. - Frankfurt am Main: Suhrkamp Verlag 1990.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Marianne: Bertolt</forename><surname>Kesting</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Brecht</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<pubPlace>Hamburg; Rowohlt</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kesting, Marianne: Bertolt Brecht. - Hamburg: Rowohlt 1999.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Jan</forename><surname>Knopf</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bertolt Brecht. Buckower Elegien. - Frankfurt am Main</title>
+		<imprint>
+			<date type="published" when="1991">1991</date>
+			<publisher>Suhrkamp Verlag</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Knopf, Jan: Bertolt Brecht. Buckower Elegien. - Frankfurt am Main: Suhrkamp Verlag 1991.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Das Leben des Bertolt Brecht oder Der Umgang mit den Welt-rätseln. - Frankfurt am Main</title>
+		<author>
+			<persName><forename type="first">Werner</forename><surname>Mittenzwei</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+			<publisher>Suhrkamp Verlag</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mittenzwei, Werner: Das Leben des Bertolt Brecht oder Der Umgang mit den Welt-rätseln. - Frankfurt am Main: Suhrkamp Verlag 1987.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Klaus-Detlef (</forename><surname>Müller</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hrsg</surname></persName>
+		</author>
+		<editor>Bertolt Brecht. Epoche - Werk - Wirkung. - Müchen: Verlag C.H. Beck</editor>
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">Müller, Klaus-Detlef (Hrsg.): Bertolt Brecht. Epoche - Werk - Wirkung. - Müchen: Verlag C.H. Beck.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Franz-Josef</forename><surname>Payrhuber</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<pubPlace>Stuttgart; Reclam</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Literaturwissen für Schule und Studium. Bertolt Brecht</orgName>
+		</respStmt>
+	</monogr>
+	<note type="raw_reference">Payrhuber, Franz-Josef: Literaturwissen für Schule und Studium. Bertolt Brecht. - Stuttgart: Reclam 1998.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Kleine Geschichte der deutschen Literatur</title>
+		<author>
+			<persName><forename type="first">Kurt</forename><surname>Rothmann</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1992">1992</date>
+			<pubPlace>Stuttgart; Reclam</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rothmann, Kurt: Kleine Geschichte der deutschen Literatur. - Stuttgart: Reclam 1992.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<author>
+			<persName><forename type="first">Günther</forename><forename type="middle">U</forename><surname>Schweikle</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Irmgard</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hrsg</surname></persName>
+		</author>
+		<title level="m">Metzler-Literatur-Lexikon. Begriffe und Definitionen. - 2., überarb. Auflage</title>
+				<meeting><address><addrLine>Stuttgart</addrLine></address></meeting>
+		<imprint>
+			<publisher>Metzler</publisher>
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Schweikle, Günther u. Irmgard (Hrsg.): Metzler-Literatur-Lexikon. Begriffe und Definitionen. - 2., überarb. Auflage Stuttgart: Metzler 1990.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Große kommentierte Berliner und Frankfurter Ausgabe, Band</title>
+		<author>
+			<persName><surname>Werke</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>Suhrkamp Verlag Frankfurt am Main</publisher>
+			<biblScope unit="volume">30</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Werke. Große kommentierte Berliner und Frankfurter Ausgabe, Band 30, Briefe 3, Suhrkamp Verlag Frankfurt am Main 1998.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Große kommentierte Berliner und Frankfurter Ausgabe</title>
+		<author>
+			<persName><surname>Werke</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+			<publisher>Suhrkamp Verlag Frankfurt am Main</publisher>
+			<biblScope unit="volume">23</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Werke. Große kommentierte Berliner und Frankfurter Ausgabe, Band 23, Schriften 3, Suhrkamp Verlag Frankfurt am Main 1993.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

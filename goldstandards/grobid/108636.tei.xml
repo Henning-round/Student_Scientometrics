@@ -1,0 +1,239 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Gedichte in der Fassung der Erstdrucke. Mit einer Einführung von Bruno Hillebrand</title>
+		<author>
+			<persName><forename type="first">Gottfried</forename><surname>Benn</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gottfried Benn, Gedichte in der Fassung der Erstdrucke. Mit einer Einführung von Bruno Hillebrand, Frankfurt a./M. 2001.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<author>
+			<persName><forename type="first">Hiltrud</forename><surname>Gnüg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Subjektivität</forename><surname>Entstehung Und Krise Lyrischer</surname></persName>
+		</author>
+		<title level="m">Vom klassischen lyrischen Ich zur modernen Erfahrungswirklichkeit</title>
+				<meeting><address><addrLine>Stuttgart</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1983">1983</date>
+			<biblScope unit="page" from="82" to="84" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hiltrud Gnüg, Entstehung und Krise lyrischer Subjektivität: Vom klassischen lyrischen Ich zur modernen Erfahrungswirklichkeit, Stuttgart 1983, S. 82-84.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Gottfried Benns Phantasiewelt. „Wo Lust und Leiche winkt“</title>
+		<author>
+			<persName><forename type="first">Oskar</forename><surname>Sahlberg</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1977">1977</date>
+			<biblScope unit="page" from="47" to="55" />
+			<pubPlace>München</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Oskar Sahlberg, Gottfried Benns Phantasiewelt. „Wo Lust und Leiche winkt“, München 1977, S. 47-55.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Cocain</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">Cocain</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Den Ich-zerfall, den süßen, tiefersehnten</title>
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">Den Ich-zerfall, den süßen, tiefersehnten,</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Den gibst Du mir: schon ist die Kehle rauh</title>
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">Den gibst Du mir: schon ist die Kehle rauh,</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Schon ist der fremde Klang an unerwähnten</title>
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">Schon ist der fremde Klang an unerwähnten</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m">Gebilden meines Ichs am Unterbau</title>
+				<imprint/>
+	</monogr>
+	<note type="raw_reference">Gebilden meines Ichs am Unterbau.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Nicht mehr am Schwerte, das der Mutter Scheide</title>
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">Nicht mehr am Schwerte, das der Mutter Scheide</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Um</forename><surname>Entsprang</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Da Und Dort Ein Werk Zu Tun</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">Entsprang, um da und dort ein Werk zu tun</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Und stählern schlägt - - : gesunken in die Heide</title>
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">Und stählern schlägt - - : gesunken in die Heide,</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Wo Hügel kaum enthüllter Formen ruhn!</title>
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">Wo Hügel kaum enthüllter Formen ruhn!</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Glatt</forename><surname>Ein Laues</surname></persName>
+		</author>
+		<imprint>
+			<pubPlace>Eben -</pubPlace>
+		</imprint>
+	</monogr>
+	<note>ein kleines Etwas</note>
+	<note type="raw_reference">Ein laues Glatt, ein kleines Etwas, Eben –</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Und nun entsteigt für Hauche eines Wehns</title>
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">Und nun entsteigt für Hauche eines Wehns</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Das</forename><surname>Ur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nicht-Seine</forename><surname>Geballt</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Beben</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">Das Ur, geballt, Nicht-seine beben</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Vorübergehns</forename><surname>Hirnschauer Mürbesten</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">Hirnschauer mürbesten Vorübergehns.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m">Zersprengtes Ich - o aufgetrunkene Schwäre</title>
+				<imprint/>
+	</monogr>
+	<note type="raw_reference">Zersprengtes Ich – o aufgetrunkene Schwäre –</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Verwehte</forename><surname>Fieber - Süß Zerborstene Wehr</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">Verwehte Fieber – süß zerborstene Wehr -:</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Verströme</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>o verströme Du - gebäre</note>
+	<note type="raw_reference">Verströme, o verströme Du – gebäre</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Blutbäuchig das Entformte her</title>
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">Blutbäuchig das Entformte her.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

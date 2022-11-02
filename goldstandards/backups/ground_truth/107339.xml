@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <sequence>
+        <note>a)</note>
+        <author>Quennell, Peter</author>
+        <title>(ed.).Memoirs of William Hickey.</title>
+        <location>London:</location>
+        <publisher>Century Publishing Co Ltd,</publisher>
+        <date>1984</date>
+    </sequence>
+    <sequence>
+        <note>b) Sekundärliteratur dtv-Atlas zur Weltgeschichte.27.</note>
+        <volume>Aufl.</volume>
+        <date>1993.</date>
+        <volume>2 Bände.</volume>
+        <location>München:</location>
+        <publisher>Deutscher Taschenbuchverlag,</publisher>
+        <date>1966.</date>
+        <volume>Band 2.</volume>
+    </sequence>
+    <sequence>
+        <author>Gordon, Lord George.”</author>
+        <title>The New Encyclopaedia Britannica: Micropaedia.</title>
+        <date>1974</date>
+        <note>ed.</note>
+    </sequence>
+    <sequence>
+        <author>Christie, Ian R.</author>
+        <title>“Wilkes, John.”</title>
+        <journal> The New Encyclopaedia Britannica:</journal>
+        <publisher>Micropaedia.</publisher>
+        <date>1974</date>
+        <note>ed.</note>
+    </sequence>
+    <sequence>
+        <author>Clarke, John.</author>
+        <title>The Life and Times of George III.</title>
+        <location>London:</location>
+        <publisher>Book Club Associates,</publisher>
+        <date>1972.</date>
+    </sequence>
+    <sequence>
+        <author>Cook, Chris und John Stevenson.</author>
+        <title>The Longman Handbook of Modern British History 1714 - 1980.</title>
+        <location>London:</location>
+        <publisher>Longman,</publisher>
+        <date>1983.</date>
+    </sequence>
+    <sequence>
+        <author>Hill, Douglas.</author>
+        <title>Georgian London.</title>
+        <location>London:</location>
+        <publisher>Macdonald,</publisher>
+        <date>1970.</date>
+    </sequence>
+    <sequence>
+        <author>Kluxen, Kurt:</author>
+        <title>Geschichte Englands.</title>
+        <publisher>Kröners Taschenausgabe</publisher>
+        <volume>374</volume>
+        <note>(ohne Ort und Jahr.</note>
+    </sequence>
+    <sequence>
+        <author>Parkins, Charles William</author>
+        <note>und die Herausgeber.</note>
+        <title>“Burke, Edmund.”</title>
+        <journal>The New Encyclopaedia Britannica:</journal>
+        <publisher>Micropaedia.</publisher>
+        <date>1974</date>
+        <note>ed.</note>
+    </sequence>
+    <sequence>
+        <author>Royle, Edward.</author>
+        <title>Modern Britain. A Social History 1750 - 1985.</title>
+        <location>London:</location>
+        <publisher>Edward Arnold,</publisher>
+        <date>1987.</date>
+    </sequence>
+    <sequence>
+        <author>Sieper, Roswitha.</author>
+        <title>The Student´s Companion to Britain.+</title>
+        <volume>8th ed.</volume>
+        <location>Ismaning:</location>
+        <publisher>Hueber,</publisher>
+        <date>1993.</date>
+    </sequence>
+    <sequence>
+        <author>Trevelyan, G.M.</author>
+        <title>History of England.1926.</title>
+        <location>London:</location>
+        <publisher>Longmans, Green and Co Ltd,</publisher>
+        <volume>3rd ed.</volume>
+        <date>1952.</date>
+    </sequence>
+    <sequence>
+        <author>Watson, John Steven.</author>
+        <title>“George III.”</title>
+        <journal>The New Encyclopaedia Britannica:</journal>
+        <volume>Micropaedia.</volume>
+        <author>1974</author>
+    </sequence>
+    <sequence>
+        <author>White, T. H.+</author>
+        <title>The Age of Scandal.1950.</title>
+        <location>Harmondsworth, Middlesex:</location>
+        <publisher>Penguin Books Ltd,</publisher>
+        <note>Reprint</note>
+        <date>1966.</date>
+    </sequence>
+</dataset>

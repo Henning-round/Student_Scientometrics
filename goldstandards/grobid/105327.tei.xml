@@ -1,0 +1,390 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Die deutsche Bergmannssprache und ihre Rezeption im Ausland unter besonderer Berücksichtigung Rußlands</title>
+		<author>
+			<persName><forename type="first">Leopold</forename><surname>Auburger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Der Anschnitt</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="81" to="90" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Auburger, Leopold: Die deutsche Bergmannssprache und ihre Rezeption im Ausland unter besonderer Berücksichtigung Rußlands. In: Der Anschnitt. 38 (1986). S. 81-90</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Der Bergbau im Wort der Dichter</title>
+		<author>
+			<persName><forename type="first">Rolf</forename><surname>Bongs</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Der Anschnitt</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="6" to="7" />
+			<date type="published" when="1952">1952</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bongs, Rolf: Der Bergbau im Wort der Dichter. In: Der Anschnitt. 4 (1952). S. 6-7</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Duden. Etymologie. Dudenverlag. Mannheim/Wien/Zürich</title>
+		<imprint>
+			<date type="published" when="1963">1963</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Duden. Etymologie. Dudenverlag. Mannheim/Wien/Zürich, 1963</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Gerhard</forename><surname>Heilfurth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eigenbesitz einer Berufsgemeinschaft. In: Der Anschnitt</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="9" to="17" />
+			<date type="published" when="1954">1954</date>
+			<publisher>Das Bergmannslied</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Heilfurth, Gerhard: Das Bergmannslied. Eigenbesitz einer Berufsgemeinschaft. In: Der Anschnitt. 6 (1954). S. 9-17</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Ein wichtiger Fund zur Frühgeschichte der Glückauf-Formel in der bergmännischen Welt</title>
+		<author>
+			<persName><forename type="first">Gerhard</forename><surname>Heilfurth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Der Anschnitt</title>
+				<imprint>
+			<date type="published" when="1959">1959</date>
+			<biblScope unit="page" from="10" to="13" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Heilfurth, Gerhard: Ein wichtiger Fund zur Frühgeschichte der Glückauf-Formel in der bergmännischen Welt. In Der Anschnitt. 11 (1959). S. 10-13</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<author>
+			<persName><forename type="first">Gerhard</forename><surname>Heilfurth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">ZumInnovations- und Tradierungsprozeß des Bergmannsgrußes „Glückauf“</title>
+				<imprint>
+			<date type="published" when="1976">1976</date>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="202" to="211" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Heilfurth, Gerhard: ZumInnovations- und Tradierungsprozeß des Bergmannsgrußes „Glückauf“. In: Der Anschnitt. 28 (1976). S. 202-211</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Der Bergbau und seine Kultur</title>
+		<author>
+			<persName><forename type="first">Gerhard</forename><surname>Heilfurth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Atlantis. Zürich/Freiburg</title>
+		<imprint>
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Heilfurth, Gerhard: Der Bergbau und seine Kultur. Atlantis. Zürich/Freiburg, 1981</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Die Quellen und Grundlagen der Bergmannssagen</title>
+		<author>
+			<persName><forename type="first">Franz</forename><surname>Kirnbauer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Der Anschnitt</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="16" to="19" />
+			<date type="published" when="1954">1954</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kirnbauer, Franz: Die Quellen und Grundlagen der Bergmannssagen. In: Der Anschnitt. 6 (1954). S. 16-19</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<author>
+			<persName><forename type="first">Anne</forename><surname>Kissenbeck</surname></persName>
+		</author>
+		<title level="m">Fachsprache und Regionalisierung: empirische Untersuchungen zum Wortschatz des Bergbaus. Frankfurt/M</title>
+				<imprint>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kissenbeck, Anne: Fachsprache und Regionalisierung: empirische Untersuchungen zum Wortschatz des Bergbaus. Frankfurt/M. 1997</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Bergmannswörter in unserer Umgangssprache</title>
+		<author>
+			<persName><forename type="first">Lutz</forename><surname>Mackensen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Der Anschnitt</title>
+				<imprint>
+			<date type="published" when="1952">1952</date>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="5" to="8" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mackensen, Lutz: Bergmannswörter in unserer Umgangssprache. In: Der Anschnitt. 4 (1952). S. 5-8</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<author>
+			<persName><forename type="first">Judy</forename><surname>Mendels</surname></persName>
+		</author>
+		<title level="m">Muttersprache. 73. Jahrgang. 1963. S</title>
+				<editor>
+			<persName><forename type="first">Walter</forename><surname>Hensen</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="page" from="161" to="171" />
+		</imprint>
+	</monogr>
+	<note>Von deutscher Bergwerkssprache</note>
+	<note type="raw_reference">Mendels, Judy: Von deutscher Bergwerkssprache. In: Hensen, Walter (Hg.). Muttersprache. 73. Jahrgang. 1963. S. 161-171</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<author>
+			<persName><forename type="first">Rainer</forename><surname>Paul</surname></persName>
+		</author>
+		<title level="m">Vorstudien für ein Wörterbuch zur Bergmannssprache in den sieben niederungarischen Bergstädten während der frühneuhochdeutschen Sprachperiode. Niemeyer. Tübingen</title>
+				<imprint>
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Paul, Rainer: Vorstudien für ein Wörterbuch zur Bergmannssprache in den sieben niederungarischen Bergstädten während der frühneuhochdeutschen Sprachperiode. Niemeyer. Tübingen, 1987</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Die Fachsprache des Bergbaus</title>
+		<author>
+			<persName><forename type="first">Ilpo</forename><surname>Piirainen</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Tapani</surname></persName>
+		</author>
+		<editor>Hoffmann, L./u.a.</editor>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="1092" to="1098" />
+			<pubPlace>Hg.; Berlin/New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Piirainen, Ilpo Tapani: Die Fachsprache des Bergbaus. In: Hoffmann, L./u.a. (Hg.): Fachsprachen. Band 1. Berlin/New York 1998. S. 1092-1098</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Fachsprache des Markscheidewesens</title>
+		<author>
+			<persName><forename type="first">Ilpo</forename><surname>Piirainen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">/</forename><surname>Tapani</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Barke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">/</forename><surname>Jörg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Martin</forename><surname>Lochert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Der Anschnitt</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="81" to="93" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Piirainen, Ilpo Tapani/Barke, Jörg/Lochert, Martin: Fachsprache des Markscheidewesens. In: Der Anschnitt. 37 (1985). S. 81-93</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<author>
+			<persName><forename type="first">Alfred</forename><surname>Schirmer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Die Erforschung der deutschen Sondersprachen</title>
+				<editor>
+			<persName><surname>Walter Von Hahn</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="1981">1981</date>
+			<biblScope unit="page" from="15" to="39" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Schirmer, Alfred: Die Erforschung der deutschen Sondersprachen. In: Walter von Hahn (Hg.). Fachsprachen. Wege der Forschung. Wissenschaftliche Buchgesellschaft. Darmstadt, 1981, S. 15-39</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Siegfried</forename><forename type="middle">:</forename><surname>Sieber</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Bergstädte</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Der Anschnitt</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="24" to="26" />
+			<date type="published" when="1959">1959</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sieber, Siegfried: Bergstädte. In: Der Anschnitt. 11. (1959). S. 24-26</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<author>
+			<persName><forename type="first">Heinz-Rudi</forename><surname>Spiegel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sprachzeichen und Bedeutung im Montanbereich</title>
+				<imprint>
+			<date type="published" when="1976">1976</date>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="30" to="32" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Spiegel, Heinz-Rudi: Sprachzeichen und Bedeutung im Montanbereich. In: Der Anschnitt. 26 (1976). S. 30-32</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<author>
+			<persName><forename type="first">Heinrich</forename><surname>Veith</surname></persName>
+		</author>
+		<title level="m">Deutsches Bergwörterbuch. Sändig. Vaduz/Liechtenstein, 1992 (unveränderter Nachdruck der Ausgabe von 1871</title>
+				<imprint/>
+	</monogr>
+	<note type="raw_reference">Veith, Heinrich: Deutsches Bergwörterbuch. Sändig. Vaduz/Liechtenstein, 1992 (unveränderter Nachdruck der Ausgabe von 1871)</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Die deutsche Berggesetzgebung. Von den Anfängen bis zur Gegenwart. Verlag Glückauf</title>
+		<author>
+			<persName><forename type="first">Raimund</forename><surname>Willecke</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1977">1977</date>
+			<pubPlace>Essen</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Willecke, Raimund: Die deutsche Berggesetzgebung. Von den Anfängen bis zur Gegenwart. Verlag Glückauf. Essen, 1977</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Seelische Aspekte in der Bergmannssprache</title>
+		<author>
+			<persName><forename type="first">Herbert</forename><surname>Wolf</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Der Anschnitt</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="22" to="25" />
+			<date type="published" when="1959">1959</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wolf, Herbert: Seelische Aspekte in der Bergmannssprache. In: Der Anschnitt. 11 (1959). S. 22-25</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<author>
+			<persName><forename type="first">Herbert</forename><surname>Wolf</surname></persName>
+		</author>
+		<title level="m">Zur Wortgeographie der deutschen Bergmannssprache</title>
+				<editor>
+			<persName><forename type="first">Walther</forename><surname>Mitzka (hg</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">.</forename><forename type="middle">)</forename><surname>Wortgeographie</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="middle">De</forename><surname>Gesellschaft</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Gruyter</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Berlin</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="1968">1968</date>
+			<biblScope unit="page" from="418" to="411" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wolf, Herbert: Zur Wortgeographie der deutschen Bergmannssprache. In: Walther Mitzka (Hg.). Wortgeographie und Gesellschaft. De Gruyter. Berlin, 1968. S. 418-411</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

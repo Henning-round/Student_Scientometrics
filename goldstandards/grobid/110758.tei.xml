@@ -1,0 +1,533 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Quellen</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">Quellen:</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Silsilat at-tawārīḫ. Relation des voyages fait par les arabes et les persans dans l’Inde et la Chine, hsg</title>
+		<author>
+			<persName><forename type="first">Abū</forename><surname>Zaid As-Sīrāfī</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1845">1845</date>
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Abū Zaid as-Sīrāfī, Silsilat at-tawārīḫ. Relation des voyages fait par les arabes et les persans dans l’Inde et la Chine, hsg. v. M. Reinaud, Paris 1845.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Alī</forename><surname>Akbar-E Ḫeṭā’ī, Ḫeṭāynāme</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">.</forename><forename type="middle">V</forename><surname>Īrağ Afšār</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1357">1357</date>
+			<pubPlace>Teheran</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Alī Akbar-e Ḫeṭā’ī, Ḫeṭāynāme, hsg. v. Īrağ Afšār, Teheran 1357 š.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Tuḥfat an-nuẓẓār fī ġarā’ib al-amṣār wa-ˤağā’ib al-asfār. Voyages d’ibn Batoutah, hsg. v. C. Defreméry &amp; B. R. Sanguinetti, 4 Bd</title>
+		<author>
+			<persName><forename type="first">Ibn</forename><surname>Baṭṭūṭa</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="1853" to="1858" />
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ibn Baṭṭūṭa, Tuḥfat an-nuẓẓār fī ġarā’ib al-amṣār wa-ˤağā’ib al-asfār. Voyages d’ibn Batoutah, hsg. v. C. Defreméry &amp; B. R. Sanguinetti, 4 Bd., Paris 1853 - 58.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Murūğ aḏ-ḏahab wa-maˤādin al-ğauhar, hsg</title>
+		<author>
+			<persName><surname>Al-Masˤūdī</surname></persName>
+		</author>
+		<editor>v. B. de Meynard &amp; P. de Courteille</editor>
+		<imprint>
+			<date type="published" when="1861">1861 - 1917</date>
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">al-Masˤūdī, Murūğ aḏ-ḏahab wa-maˤādin al-ğauhar, hsg. v. B. de Meynard &amp; P. de Courteille, Paris 1861 - 1917.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">China und die Hoffnung auf Glück. Paradiese, Utopien, Idealvorstellungen in der Geistesgeschichte Chinas</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Bauer</surname></persName>
+		</author>
+		<imprint>
+			<date>31989</date>
+			<pubPlace>München</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">W. Bauer, China und die Hoffnung auf Glück. Paradiese, Utopien, Idealvorstellungen in der Geistesgeschichte Chinas, München 31989.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Bosworth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hartmann</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Stichwort „aṣ-Ṣīn</surname></persName>
+		</author>
+		<title level="m">Encyclopaedia of Islam</title>
+				<editor>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Bosworth</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">E</forename><surname>Van Donzel</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">W</forename><forename type="middle">P</forename><surname>Heinrichs</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">G</forename><surname>Lecomte</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Bd. IX, Leiden</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="page" from="617" to="622" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">C. E. Bosworth, M. Hartmann, Stichwort „aṣ-Ṣīn“, in: C. E. Bosworth, E. van Donzel, W. P. Heinrichs, G. Lecomte (Hsgg.), Encyclopaedia of Islam, Bd. IX, Leiden 1997, S. 617 - 622.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Kunstschätze aus China. 5000 v. Chr. bis 900 n. Chr. Neue archäologische Funde aus der Volksrepublik China</title>
+		<author>
+			<persName><forename type="first">Helmut</forename><surname>Brinker</surname></persName>
+		</author>
+		<editor>Helmut Brinker, Roger Goepper</editor>
+		<imprint>
+			<date type="published" when="1980">1980</date>
+			<pubPlace>Zürich</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Die Pracht der Grabausstattung zur Tangzeit</note>
+	<note type="raw_reference">Helmut Brinker, Die Pracht der Grabausstattung zur Tangzeit, in: Helmut Brinker, Roger Goepper, Kunstschätze aus China. 5000 v. Chr. bis 900 n. Chr. Neue archäologische Funde aus der Volksrepublik China, Zürich 1980.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Bürgel</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1991">1991</date>
+			<pubPlace>München</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Allmacht und Mächtigkeit. Religion und Welt im Islam</orgName>
+		</respStmt>
+	</monogr>
+	<note type="raw_reference">J. C. Bürgel, Allmacht und Mächtigkeit. Religion und Welt im Islam, München 1991.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<author>
+			<persName><forename type="first">E</forename><surname>Conze</surname></persName>
+		</author>
+		<title level="m">Kurze Geschichte des Buddhismus</title>
+				<imprint>
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">E. Conze, Kurze Geschichte des Buddhismus, Frankfurt a. M. 1986.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Das Reich der Mitte. 5000 Jahre Geschichte und Tradition des Alten China</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Cotterell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yap</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1981">1981</date>
+			<pubPlace>Bern</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">A. Cotterell, Y. Yap, Das Reich der Mitte. 5000 Jahre Geschichte und Tradition des Alten China, Bern 1981.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">Die Religionen Chinas</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Eichhorn</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1973">1973</date>
+			<pubPlace>Stuttgart</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">W. Eichhorn, Die Religionen Chinas, Stuttgart 1973.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><surname>Franke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rolf</forename><surname>Trauzettel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Das Chinesische Kaiserreich</title>
+		<imprint>
+			<date type="published" when="1968">1968</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">H. Franke, Rolf Trauzettel, Das Chinesische Kaiserreich, Frankfurt a. M. 1968.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Die chinesische Welt</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gernet</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. Gernet, Die chinesische Welt, Frankfurt a. M. 1988.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<author>
+			<persName><forename type="first">H</forename><surname>Härtel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Indische</forename><surname>Plastik</surname></persName>
+		</author>
+		<title level="m">Indien und Südostasien (Propyläen Kunstgeschichte Bd. 21)</title>
+				<editor>
+			<persName><forename type="first">J</forename><surname>Auboyer</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">H</forename><surname>Härtel</surname></persName>
+		</editor>
+		<meeting><address><addrLine>München</addrLine></address></meeting>
+		<imprint>
+			<date>21986</date>
+			<biblScope unit="page" from="159" to="178" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">H. Härtel, Indische Plastik, in: J. Auboyer, H. Härtel (Hsgg.), Indien und Südostasien (Propyläen Kunstgeschichte Bd. 21), München 21986, S. 159 - 178.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><surname>Heine</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stichwort „Mission: E. Islam“</title>
+		<editor>Lexikon des Mittelalters, Bd. VI</editor>
+		<imprint>
+			<biblScope unit="page" from="678" to="679" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">P. Heine, Stichwort „Mission: E. Islam“, in: Lexikon des Mittelalters, Bd. VI, S. 678 -679.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">China as Described by Turkish Geographers</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kahle</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Opera minora</title>
+				<editor>
+			<persName><forename type="first">P</forename><surname>Kahle</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Leiden</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1956">1956</date>
+			<biblScope unit="page" from="312" to="325" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">P. Kahle, China as Described by Turkish Geographers, in: P. Kahle, Opera minora, Leiden 1956, S. 312 - 325.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename></persName>
+		</author>
+		<title level="m">Stichwort „Ibn Baṭṭūṭa“</title>
+				<editor>
+			<persName><forename type="first">B</forename><surname>Lewis</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">V</forename><forename type="middle">L</forename><surname>Ménage</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Ch</forename><surname>Pellat</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Schacht</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Bd. III, Leiden, London</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1971">1971</date>
+			<biblScope unit="page" from="735" to="736" />
+		</imprint>
+	</monogr>
+	<note>Encyclopaedia of Islam</note>
+	<note type="raw_reference">A. Miquel, Stichwort „Ibn Baṭṭūṭa“, in: B. Lewis, V. L. Ménage, Ch. Pellat, J. Schacht (Hsgg.), Encyclopaedia of Islam, Bd. III, Leiden, London 1971, S. 735 - 736.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mylius</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Der</forename><surname>Buddhismus</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Seine Lehre Und Seine Geschichte</surname></persName>
+		</author>
+		<title level="m">Gautama Buddha. Die vier edlen Wahrheiten. Texte des ursprünglichen Buddhismus, übers. u. hsg. v. K. Mylius</title>
+				<meeting><address><addrLine>München</addrLine></address></meeting>
+		<imprint>
+			<date>21986</date>
+			<biblScope unit="page" from="17" to="56" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">K. Mylius, Der Buddhismus, seine Lehre und seine Geschichte, in: Gautama Buddha. Die vier edlen Wahrheiten. Texte des ursprünglichen Buddhismus, übers. u. hsg. v. K. Mylius, München 21986, S. 17 - 56.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Einführung - Texte - Erläuterungen</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Nagel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Der</forename><surname>Koran</surname></persName>
+		</author>
+		<imprint>
+			<date>31998</date>
+			<pubPlace>München</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">T. Nagel, Der Koran. Einführung - Texte - Erläuterungen, München 31998.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><surname>Aḥmad</surname></persName>
+		</author>
+		<title level="m">A History of Arab-Islamic Geography (9th - 16th Century A. D.)</title>
+				<meeting><address><addrLine>Amman</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">S. Maqbūl Aḥmad, A History of Arab-Islamic Geography (9th - 16th Century A. D.), Amman 1995.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">C</forename><surname>Reiter</surname></persName>
+		</author>
+		<title level="m">Religionen in China. Geschichte, Alltag, Kultur</title>
+				<meeting><address><addrLine>München</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">F. C. Reiter, Religionen in China. Geschichte, Alltag, Kultur, München 2002.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">Geschichte des Taoismus</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Robinet</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<pubPlace>München</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">I. Robinet, Geschichte des Taoismus, München 1995.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Geschichte der chinesischen Literatur. Die 3000jährige Entwicklung der poetischen, erzählenden und philosophisch-religiösen Literatur von den Anfängen bis zur Gegenwart</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Schmidt-Glintzer</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1990">1990</date>
+			<pubPlace>Bern</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">H. Schmidt-Glintzer, Geschichte der chinesischen Literatur. Die 3000jährige Entwicklung der poetischen, erzählenden und philosophisch-religiösen Literatur von den Anfängen bis zur Gegenwart, Bern 1990.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">W</forename><surname>Schumann</surname></persName>
+		</author>
+		<title level="m">Mahāyāna-Buddhismus. Das Große Fahrzeug über den Ozean des Leidens</title>
+				<meeting><address><addrLine>München</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">H. W. Schumann, Mahāyāna-Buddhismus. Das Große Fahrzeug über den Ozean des Leidens, München 1995.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Religious Taoism and Popular Religion from the Second to Seventh Centuries</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Stein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Facets of Taoism</title>
+				<editor>
+			<persName><forename type="first">H</forename><surname>Welch</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Seidel</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Yale</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1979">1979</date>
+			<biblScope unit="page" from="53" to="81" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">R. A. Stein, Religious Taoism and Popular Religion from the Second to Seventh Centuries, in: H. Welch, A. Seidel (Hsgg.), Facets of Taoism, Yale 1979, S. 53 - 81.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">The Cambridge History of China, Bd 8, The Ming Dynasty 1368 - 1644</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">; D</forename><surname>Twitchett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">W</forename><surname>Mote</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="840" to="892" />
+		</imprint>
+	</monogr>
+	<note>Official religion in the Ming</note>
+	<note type="raw_reference">R. Taylor, Official religion in the Ming, in: D. Twitchett, F. W. Mote, The Cambridge History of China, Bd 8, The Ming Dynasty 1368 - 1644, Tl. 2, S. 840 - 892.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<author>
+			<persName><forename type="first">G</forename><surname>Franz-Willing</surname></persName>
+		</author>
+		<title level="m">Neueste Geschichte Chinas. 1840 bis zur Gegenwart</title>
+				<meeting><address><addrLine>Paderborn</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1975">1975</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">G. Franz-Willing, Neueste Geschichte Chinas. 1840 bis zur Gegenwart, Paderborn 1975.</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Zeki Velidi Toğan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">„</forename><surname>Stichwort</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Akbar</forename><surname>ˤalī</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Khiṭā</surname></persName>
+		</author>
+		<title level="m">Encyclopaedia of Islam</title>
+				<editor>
+			<persName><forename type="first">H</forename><forename type="middle">A R</forename><surname>Gibb</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Kramers</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">E</forename><surname>Lévi-Provençal</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Schacht</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Bd. I, Leiden, London</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1960">1960</date>
+			<biblScope unit="page" from="390" to="391" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">A. Zeki Velidi Toğan, Stichwort „ˤAlī Akbar Khiṭā’ī“, in: H. A. R. Gibb, J. H. Kramers, E. Lévi-Provençal, J. Schacht (Hsgg.), Encyclopaedia of Islam, Bd. I, Leiden, London 1960, S. 390 - 391.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

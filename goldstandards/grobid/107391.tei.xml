@@ -1,0 +1,431 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader/>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<div>
+				<listBibl>
+<biblStruct xml:id="b0">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Wilhelm</forename><surname>Verwendete Texte Von</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hauff</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">Verwendete Texte von Wilhelm Hauff:</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<author>
+			<persName><forename type="first">Wilhelm</forename><surname>Hauff</surname></persName>
+		</author>
+		<title level="m">Mitteilungen aus den Memoiren des Satans</title>
+				<meeting><address><addrLine>Leipzig</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1928">1928</date>
+		</imprint>
+	</monogr>
+	<note>Zitierte Ausgabe</note>
+	<note type="raw_reference">Hauff, Wilhelm: Mitteilungen aus den Memoiren des Satans, Leipzig 1928 [Zitierte Ausgabe]</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Mittheilungen aus den Memoiren des Satans, 2 Bde</title>
+		<author>
+			<persName><forename type="first">Wilhelm</forename><surname>Hauff</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1826">1826/27. 1990</date>
+			<publisher>Microfiche-Ausg</publisher>
+			<pubPlace>Stuttgart</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hauff, Wilhelm: Mittheilungen aus den Memoiren des Satans, 2 Bde., Stuttgart 1826/27 (Microfiche-Ausg.: Corvey 1990) [Erstausgabe]</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<author>
+			<persName><forename type="first">Wilhelm</forename><surname>Hauff</surname></persName>
+		</author>
+		<title level="m">Sämtliche Märchen. RUB</title>
+				<meeting><address><addrLine>Stuttgart</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hauff, Wilhelm: Sämtliche Märchen. RUB Stuttgart 2001</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<author>
+			<persName><forename type="first">Wilhelm</forename><surname>Hauff</surname></persName>
+		</author>
+		<title level="m">Wilhelm Hauff. Sämtliche Werke in 3 Bänden. Bd.I. München</title>
+				<editor>
+			<persName><forename type="first">Sybille</forename><surname>Steinsdorf</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="1970">1970</date>
+			<biblScope unit="page" from="795" to="824" />
+		</imprint>
+	</monogr>
+	<note>Kontrovers-Predigt über H.Clauren und den Mann im Monde</note>
+	<note type="raw_reference">Hauff, Wilhelm: Kontrovers-Predigt über H.Clauren und den Mann im Monde, in: v. Steinsdorf, Sybille (hrsg.): Wilhelm Hauff. Sämtliche Werke in 3 Bänden. Bd.I. München 1970, S.795-824</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Zeitgenossen</forename><surname>Texte Von</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hauffs</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">Texte von Zeitgenossen Hauffs:</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Adelbert: Peter Schlemihls wundersame Geschichte</title>
+		<author>
+			<persName><surname>Chamisso</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<pubPlace>Stuttgart</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">v. Chamisso, Adelbert: Peter Schlemihls wundersame Geschichte. RUB Stuttgart 1997</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Heinrich</forename><forename type="middle">:</forename><surname>Heine</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ideen</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Das Buch Le Grand</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<pubPlace>Stuttgart</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Heine, Heinrich: Ideen. Das Buch Le Grand. RUB Stuttgart 1998</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<author>
+			<persName><forename type="first">Ernst</forename><forename type="middle">T A</forename><surname>Hoffmann</surname></persName>
+		</author>
+		<title level="m">Die Elixiere des Teufels. RUB</title>
+				<meeting><address><addrLine>Stuttgart</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hoffmann, Ernst T.A.: Die Elixiere des Teufels. RUB Stuttgart 2000</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Bruder Moritz, der Sonderling oder die Colonie für die Pelew-Inseln. Lustspiel in drei Aufzügen</title>
+		<author>
+			<persName><forename type="first">August</forename><surname>Kotzebue</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1791">1791</date>
+			<pubPlace>Leipzig</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">v. Kotzebue, August: &quot;Bruder Moritz, der Sonderling oder die Colonie für die Pelew-Inseln. Lustspiel in drei Aufzügen&quot;, Leipzig 1791</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Die deutsche Literatur im 19</title>
+		<author>
+			<persName><forename type="first">Ernst</forename><surname>Alker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Jahrhundert</title>
+		<imprint>
+			<date type="published" when="1969">1969</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Alker, Ernst: Die deutsche Literatur im 19.Jahrhundert. Stuttgart 1969</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<author>
+			<persName><forename type="first">Klaus</forename><forename type="middle">L</forename><surname>Berghahn</surname></persName>
+		</author>
+		<title level="m">Der Zug des Herzens ist des Schicksals Stimme&quot;: Beobachtungen zur Clauren-Hauff-Kontroverse</title>
+				<imprint>
+			<publisher>The University of Wisconsin Press</publisher>
+			<date type="published" when="1977">1977</date>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="page" from="58" to="65" />
+		</imprint>
+	</monogr>
+	<note>Monatshefte für deutschen Unterricht, deutsche Sprache und Literatur</note>
+	<note type="raw_reference">Berghahn, Klaus L.: &quot;Der Zug des Herzens ist des Schicksals Stimme&quot;: Beobachtungen zur Clauren-Hauff-Kontroverse, in: Monatshefte für deutschen Unterricht, deutsche Sprache und Literatur. The University of Wisconsin Press, Vol. 69 (1977), Nr. 1, S. 58-65</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<author>
+			<persName><forename type="first">Rolf</forename><surname>Düsterberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Wilhelm Hauffs &apos;opportunistische&apos; Judenfeindschaft</title>
+				<meeting><address><addrLine>Berlin</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<biblScope unit="volume">119</biblScope>
+			<biblScope unit="page" from="190" to="212" />
+		</imprint>
+	</monogr>
+	<note>Zeitschrift für deutsche Philologie</note>
+	<note type="raw_reference">Düsterberg, Rolf: Wilhelm Hauffs &apos;opportunistische&apos; Judenfeindschaft, in: Zeitschrift für deutsche Philologie, Bd.119, Berlin 2000, S.190-212</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<author>
+			<persName><forename type="first">Susanne</forename><surname>Fischer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Wilhelm Hauffs Korrespondenz mit Autoren, Verlegern und Herausgebern: Aspekte sozialer Tauschbeziehungen im literarischen Leben um 1825</title>
+				<imprint>
+			<date type="published" when="1992">1992</date>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="99" to="166" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Fischer, Susanne: Wilhelm Hauffs Korrespondenz mit Autoren, Verlegern und Herausgebern: Aspekte sozialer Tauschbeziehungen im literarischen Leben um 1825, in: Archiv für Geschichte des Buchwesens 37 (1992), S.99-166</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<author>
+			<persName><forename type="first">Elisabeth</forename><surname>Frenzel</surname></persName>
+		</author>
+		<title level="m">Stoffe der Weltliteratur</title>
+				<meeting><address><addrLine>Stuttgart</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Frenzel, Elisabeth: Stoffe der Weltliteratur. Stuttgart 1988</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<author>
+			<persName><forename type="first">Gunter</forename><surname>Grimm</surname></persName>
+		</author>
+		<title level="m">Dichter-Portraits. Bilder und Daten. RUB</title>
+				<meeting><address><addrLine>Stuttgart</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Grimm, Gunter et al.: Dichter-Portraits. Bilder und Daten. RUB Stuttgart 1996</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Haussmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of English and Germanic Philology</title>
+		<editor>E.T.A. Hoffmanns Einfluß auf Hauff</editor>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="53" to="66" />
+			<date type="published" when="1917">1917</date>
+		</imprint>
+	</monogr>
+	<note>Reprint 1963</note>
+	<note type="raw_reference">Haussmann, J. F.: E.T.A. Hoffmanns Einfluß auf Hauff, in: Journal of English and Germanic Philology 16, Illinois 1917 (Reprint 1963), S. 53-66</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Eine nach neuen Quellen bearbeitete Darstellung seines Werdeganges. Mit einer Sammlung seiner Briefe und einer Auswahl aus dem unveröffentlichten Nachlass des Dichters</title>
+		<author>
+			<persName><forename type="first">Hans: Wilhelm</forename><surname>Hofmann</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hauff</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1902">1902</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hofmann, Hans: Wilhelm Hauff. Eine nach neuen Quellen bearbeitete Darstellung seines Werdeganges. Mit einer Sammlung seiner Briefe und einer Auswahl aus dem unveröffentlichten Nachlass des Dichters. Frankfurt a.M., 1902</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Die schwarze Romantik</title>
+		<author>
+			<persName><forename type="first">Mario</forename><forename type="middle">:</forename><surname>Praz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tod</forename><surname>Liebe</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Teufel</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1988">1988</date>
+			<pubPlace>München</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Praz, Mario: Liebe, Tod und Teufel. Die schwarze Romantik. München 1988</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Memoiren des Satan&quot; nebst einem Beitrag zur Beurteilung Goethes in den zwanziger Jahren des 19</title>
+		<author>
+			<persName><forename type="first">Edwin</forename><forename type="middle">:</forename><surname>Sommermeyer</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hauffs</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Jahrhunderts, Diss</title>
+		<imprint>
+			<biblScope unit="volume">129</biblScope>
+			<date type="published" when="1932">1932</date>
+		</imprint>
+	</monogr>
+	<note>Germanische Studien</note>
+	<note type="raw_reference">Sommermeyer, Edwin: Hauffs &quot;Memoiren des Satan&quot; nebst einem Beitrag zur Beurteilung Goethes in den zwanziger Jahren des 19.Jahrhunderts, Diss., in: Germanische Studien 129, Berlin 1932</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m">Sekundärliteratur aus dem Internet</title>
+				<imprint/>
+	</monogr>
+	<note type="raw_reference">Sekundärliteratur aus dem Internet:</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Walter: Wilhelm</forename><surname>Giebel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Literat</forename><surname>Hauff</surname></persName>
+		</author>
+		<idno>11.10.2002</idno>
+		<ptr target="http://www.think-of-me.de/Biography/Wilhelm_Hauff.htm" />
+		<imprint>
+			<biblScope unit="page" from="1802" to="1827" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Giebel, Walter: Wilhelm Hauff, Literat, Dichter 1802-1827 http://www.think-of-me.de/Biography/Wilhelm_Hauff.htm [11.10.2002]</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">Erklärung zu Seminararbeiten im Department I</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Obligatorische</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">V. Obligatorische Erklärung zu Seminararbeiten im Department I</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Seminararbeiten&quot;) am Ende folgende Erklärung beizufügen und von der Verfasserin / dem Verfasser der</title>
+	</analytic>
+	<monogr>
+		<title level="m">Oktober 2001 ist sämtlichen schriftlichen Hausarbeiten im Rahmen von Lehrveranstaltungen</title>
+				<imprint/>
+	</monogr>
+	<note>Ab 1. Hausarbeit zu unterschreiben</note>
+	<note type="raw_reference">Ab 1.Oktober 2001 ist sämtlichen schriftlichen Hausarbeiten im Rahmen von Lehrveranstaltungen (&quot;Seminararbeiten&quot;) am Ende folgende Erklärung beizufügen und von der Verfasserin / dem Verfasser der Hausarbeit zu unterschreiben:</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Erklärung</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">Erklärung</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">Die/Der Unterzeichnete versichert, dass sie/er die vorliegende schriftliche Hausarbeit (Seminararbeit) selbstständig verfasst und keine anderen als die von ihr/ihm angegebenen Hilfsmittel benutzt hat. Die Stellen der Arbeit, die anderen Werken dem Wortlaut oder dem Sinne nach entnommen sind, wurden in jedem Fall unter Angabe der Quellen (einschließlich des World Wide Web und anderer elektronischer Text- und Datensammlungen) kenntlich gemacht. Dies gilt auch für beigegebene Zeichnungen</title>
+		<imprint/>
+	</monogr>
+	<note>bildliche Darstellungen, Skizzen und dergleichen</note>
+	<note type="raw_reference">Die/Der Unterzeichnete versichert, dass sie/er die vorliegende schriftliche Hausarbeit (Seminararbeit) selbstständig verfasst und keine anderen als die von ihr/ihm angegebenen Hilfsmittel benutzt hat. Die Stellen der Arbeit, die anderen Werken dem Wortlaut oder dem Sinne nach entnommen sind, wurden in jedem Fall unter Angabe der Quellen (einschließlich des World Wide Web und anderer elektronischer Text- und Datensammlungen) kenntlich gemacht. Dies gilt auch für beigegebene Zeichnungen, bildliche Darstellungen, Skizzen und dergleichen.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">/</forename><surname>Ort</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Datum</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">Ort / Datum)</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">Unterschrift der Verfasserin / des Verfassers der Seminararbeit)</title>
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">Unterschrift der Verfasserin / des Verfassers der Seminararbeit)</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
